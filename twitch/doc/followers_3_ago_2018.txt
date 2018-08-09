@@ -1,0 +1,3492 @@
+obborg:
+    Url: https://www.twitch.tv/obborg
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 8/3/2018
+
+ratzinjammers:
+    Url: https://www.twitch.tv/ratzinjammers
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 8/3/2018
+
+renoudz:
+    Url: https://www.twitch.tv/renoudz
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 8/3/2018
+
+XxGamerJasonxX:
+    Url: https://www.twitch.tv/xxgamerjasonxx
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 8/3/2018
+
+ToiletNoggin99:
+    Url: https://www.twitch.tv/toiletnoggin99
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 8/3/2018
+
+ReclusiveScribe:
+    Url: https://www.twitch.tv/reclusivescribe
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/48fabb2da3fe9d8f-profile_image-70x70.jpeg
+    Description:
+    Since: 8/3/2018
+
+laxmong:
+    Url: https://www.twitch.tv/laxmong
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 8/3/2018
+
+mrlube_:
+    Url: https://www.twitch.tv/mrlube_
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/25bbf9e3-289a-43db-b4ff-d0bbfcb953d2-profile_banner-480.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description: Call me Bobby This is a project i just started about connecting streamers together for the good warming love that we miss when we stream alone. Come connect within my channel that is now your'es
+    Since: 8/3/2018
+
+jameswilliams11:
+    Url: https://www.twitch.tv/jameswilliams11
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description: Yo
+    Since: 8/3/2018
+
+phannjames:
+    Url: https://www.twitch.tv/phannjames
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 8/2/2018
+
+alle_alex:
+    Url: https://www.twitch.tv/alle_alex
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 8/1/2018
+
+superman2233444344:
+    Url: https://www.twitch.tv/superman2233444344
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/af6a211f-2931-4d4a-ac8b-bf29e55186a3-profile_banner-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/805f452a-6fcd-40ff-837d-6e48675702b7-profile_image-70x70.png
+    Description:
+    Since: 7/31/2018
+
+alondraamartinez:
+    Url: https://www.twitch.tv/alondraamartinez
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 7/31/2018
+
+palamedesyoutube:
+    Url: https://www.twitch.tv/palamedesyoutube
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 7/30/2018
+
+Kingradek3:
+    Url: https://www.twitch.tv/kingradek3
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/kingradek3-profile_banner-daeec36a1e06d7da-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/kingradek3-profile_image-fa30a6af42a37b60-70x70.png
+    Description: Warr FTW ... :P
+    Since: 7/30/2018
+
+Erwinolie:
+    Url: https://www.twitch.tv/erwinolie
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 7/29/2018
+
+ibouvousaime:
+    Url: https://www.twitch.tv/ibouvousaime
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 7/29/2018
+
+JackandBones:
+    Url: https://www.twitch.tv/jackandbones
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 7/29/2018
+
+TheLordananas:
+    Url: https://www.twitch.tv/thelordananas
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/22eda7a1-e14d-4353-8371-7e360df351da-profile_image-70x70.png
+    Description: Hi, I am a huge fan of this *game* of war between two armies, which takes place on a world of 32 dark and 32 white countries. I am trying to get better at it and to improve my understanding about the decisions I should make in order to win it. Unfortunately, I guess, I love this game more, than it l
+    Since: 7/29/2018
+
+may0_r:
+    Url: https://www.twitch.tv/may0_r
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/4c91ec73-2020-4939-9e88-716f0d7a1ce7-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/2fb3cbe0-2ae8-4fc4-9ba3-079753b91626-profile_image-70x70.jpg
+    Description: I im the One,  i dont need a Gun to get respect up on the Street.
+    Since: 7/29/2018
+
+drobille:
+    Url: https://www.twitch.tv/drobille
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/drobille-profile_image-fc2b597532c1f6a1-70x70.jpeg
+    Description:
+    Since: 7/29/2018
+
+heitorchess:
+    Url: https://www.twitch.tv/heitorchess
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 7/29/2018
+
+morozevichecuxd:
+    Url: https://www.twitch.tv/morozevichecuxd
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/5887eff8-d018-4e40-8640-f4b24a18a7f8-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/d8316256-198b-4c07-b455-51a87959bccf-profile_image-70x70.png
+    Description:
+    Since: 7/29/2018
+
+BuzZz_nl:
+    Url: https://www.twitch.tv/buzzz_nl
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 7/29/2018
+
+PoitaoForPresident:
+    Url: https://www.twitch.tv/poitaoforpresident
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 7/28/2018
+
+kira187light:
+    Url: https://www.twitch.tv/kira187light
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 7/28/2018
+
+cameronjohnson26:
+    Url: https://www.twitch.tv/cameronjohnson26
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 7/28/2018
+
+garaughty:
+    Url: https://www.twitch.tv/garaughty
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/garaughty-profile_banner-1de2fabd7cb483cf-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/garaughty-profile_image-191aa75525ce5ebb-70x70.jpeg
+    Description: A highly caffeinated creative type... abstract painter, pianist, composer, arranger, music for films, television and video games
+    Since: 7/28/2018
+
+dvilchezm:
+    Url: https://www.twitch.tv/dvilchezm
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 7/27/2018
+
+Turvaldeon:
+    Url: https://www.twitch.tv/turvaldeon
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/turvaldeon-profile_banner-890e842ac6f619e3-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/turvaldeon-profile_image-f8ebb0f7d81fd246-70x70.jpeg
+    Description: This user has a bio.
+    Since: 7/26/2018
+
+Natsochess:
+    Url: https://www.twitch.tv/natsochess
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/af10d493-aed2-4cc6-b8b1-d5b7e42c0407-profile_banner-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/ec31e6af-488e-4067-abaf-4a27570290c7-profile_image-70x70.png
+    Description:
+    Since: 7/26/2018
+
+zznop:
+    Url: https://www.twitch.tv/zznop
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/ec229c53-08f9-4279-8162-0b97a8c88848-profile_image-70x70.jpg
+    Description: Chess player.
+    Since: 7/26/2018
+
+petertjuh31:
+    Url: https://www.twitch.tv/petertjuh31
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 7/26/2018
+
+thegreatmantodd:
+    Url: https://www.twitch.tv/thegreatmantodd
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 7/26/2018
+
+walbertoflores1310:
+    Url: https://www.twitch.tv/walbertoflores1310
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 7/26/2018
+
+epino74:
+    Url: https://www.twitch.tv/epino74
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 7/26/2018
+
+nathanf314:
+    Url: https://www.twitch.tv/nathanf314
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/4ea19867-9324-4257-9409-eaafbe0ab6ff-profile_image-70x70.jpg
+    Description: My name is Nathan Fong and I stream chess with different time controls and variants. USCF 1957, hoping to one day break 2k.
+    Since: 7/26/2018
+
+rayclay2:
+    Url: https://www.twitch.tv/rayclay2
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/f8a4e3ebf7bb2d93-profile_image-70x70.jpeg
+    Description: Artist~ Empowering others.   Humanitarian , seeking the Truth, whatever that may be. ; )
+    Since: 7/26/2018
+
+mortzionfb:
+    Url: https://www.twitch.tv/mortzionfb
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 7/24/2018
+
+Tchitcherinev:
+    Url: https://www.twitch.tv/tchitcherinev
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 7/24/2018
+
+jcsil86:
+    Url: https://www.twitch.tv/jcsil86
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/907bc445-8a35-441b-b228-0679d71f50cd-profile_image-70x70.jpg
+    Description:
+    Since: 7/24/2018
+
+addisondo:
+    Url: https://www.twitch.tv/addisondo
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 7/24/2018
+
+khurtsidzeotari:
+    Url: https://www.twitch.tv/khurtsidzeotari
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 7/24/2018
+
+SutibuMbu:
+    Url: https://www.twitch.tv/sutibumbu
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 7/23/2018
+
+firstpageaddict:
+    Url: https://www.twitch.tv/firstpageaddict
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 7/23/2018
+
+lexstratus:
+    Url: https://www.twitch.tv/lexstratus
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/lexstratus-profile_banner-07bdd2f33b4f31b3-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/lexstratus-profile_image-dadce3d369ea2967-70x70.jpeg
+    Description: Playing Diablo II: Lord of Destruction.I usually play ladder east scI.I Only play Barbarians
+    Since: 7/23/2018
+
+everysteputake_thepolice:
+    Url: https://www.twitch.tv/everysteputake_thepolice
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 7/23/2018
+
+johnathanchandler1985:
+    Url: https://www.twitch.tv/johnathanchandler1985
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 7/23/2018
+
+kifiz:
+    Url: https://www.twitch.tv/kifiz
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 7/23/2018
+
+Finna_Smash:
+    Url: https://www.twitch.tv/finna_smash
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 7/23/2018
+
+atiasi:
+    Url: https://www.twitch.tv/atiasi
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 7/23/2018
+
+tusitala10:
+    Url: https://www.twitch.tv/tusitala10
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 7/22/2018
+
+1locnar:
+    Url: https://www.twitch.tv/1locnar
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 7/22/2018
+
+thewaiting777:
+    Url: https://www.twitch.tv/thewaiting777
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 7/22/2018
+
+manasphaldhe12:
+    Url: https://www.twitch.tv/manasphaldhe12
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 7/20/2018
+
+Theorangepeels:
+    Url: https://www.twitch.tv/theorangepeels
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 7/19/2018
+
+gigi_yo:
+    Url: https://www.twitch.tv/gigi_yo
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/976cfeb8-931c-43ce-9ef8-f17e0f18a73a-profile_image-70x70.jpg
+    Description:
+    Since: 7/16/2018
+
+ChesspatzerWALES:
+    Url: https://www.twitch.tv/chesspatzerwales
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/566f8224-6d4a-42d0-82f1-214acec245b3-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/5951779c-26dd-44cf-99e9-7441bd9d56dc-profile_image-70x70.png
+    Description: Im a Chesspatzer from Wales. I started playing in 2017 and am trying to get better by getting whooped regularly by better players. Im not sure its working. All advice happily received
+    Since: 7/16/2018
+
+rancicdj:
+    Url: https://www.twitch.tv/rancicdj
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 7/16/2018
+
+kramnikstudent:
+    Url: https://www.twitch.tv/kramnikstudent
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 7/16/2018
+
+TAFcs:
+    Url: https://www.twitch.tv/tafcs
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/f347ab45-a284-49a5-92b4-3c894a93be5b-profile_image-70x70.png
+    Description: I stream CSGO, PUBG, H1Z1, League and whatever looks fun. I just like streaming, whether or not someone is watching. Feel free to join me! My stream schedule is in my tiles and is updated every Saturday.
+    Since: 7/15/2018
+
+ladydtv:
+    Url: https://www.twitch.tv/ladydtv
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description: Hello, My name is kelly, My account was hacked yesterday, Today I made this Account with a safer password, I am young at the age of 23 and I love music and video games, Rest In Peace xxxtentacion. Bye guys.
+    Since: 7/10/2018
+
+Mister_Chess:
+    Url: https://www.twitch.tv/mister_chess
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/4fb92faf-2593-45e8-be30-ac9c6a88a994-profile_image-70x70.jpg
+    Description: I'm a new streamer from the midwest.I steam Chess
+    Since: 7/10/2018
+
+deepak_singh06:
+    Url: https://www.twitch.tv/deepak_singh06
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 7/10/2018
+
+santropedro1:
+    Url: https://www.twitch.tv/santropedro1
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 7/9/2018
+
+heltonparreiras:
+    Url: https://www.twitch.tv/heltonparreiras
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 7/9/2018
+
+joepanther2001:
+    Url: https://www.twitch.tv/joepanther2001
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/b8ae170f-7326-4877-9aea-23a8cb67b6b0-profile_image-70x70.jpg
+    Description:
+    Since: 7/9/2018
+
+pigeonsknuckles:
+    Url: https://www.twitch.tv/pigeonsknuckles
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 7/9/2018
+
+chessbirb:
+    Url: https://www.twitch.tv/chessbirb
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 7/9/2018
+
+Hardwell24:
+    Url: https://www.twitch.tv/hardwell24
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 7/9/2018
+
+bitcoinetheriumenthusiast:
+    Url: https://www.twitch.tv/bitcoinetheriumenthusiast
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 7/9/2018
+
+drchess5:
+    Url: https://www.twitch.tv/drchess5
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 7/9/2018
+
+bertramthedog:
+    Url: https://www.twitch.tv/bertramthedog
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 7/8/2018
+
+jensenlynch:
+    Url: https://www.twitch.tv/jensenlynch
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 7/8/2018
+
+warrenjsmith:
+    Url: https://www.twitch.tv/warrenjsmith
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 7/8/2018
+
+Ravellanim:
+    Url: https://www.twitch.tv/ravellanim
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/ravellanim-profile_banner-72d47851404150c5-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/ravellanim-profile_image-6b6dac1f6d51b56c-70x70.png
+    Description: I am more than 300 characters.
+    Since: 7/8/2018
+
+borutofann:
+    Url: https://www.twitch.tv/borutofann
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/1b58d863-db28-44fd-a33f-cb00bc1b6791-profile_image-70x70.jpg
+    Description:
+    Since: 7/8/2018
+
+bak1an:
+    Url: https://www.twitch.tv/bak1an
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/9e8a5eb2-2dca-4294-871f-8ac588a2b0f4-profile_image-70x70.jpg
+    Description: http://bak1an.site/
+    Since: 7/8/2018
+
+timoleonGia:
+    Url: https://www.twitch.tv/timoleongia
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 7/8/2018
+
+chesssky2:
+    Url: https://www.twitch.tv/chesssky2
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/c712b8c5-eac8-4389-b2d6-1fdb28394ef9-profile_image-70x70.jpg
+    Description:
+    Since: 7/8/2018
+
+Aivaneto:
+    Url: https://www.twitch.tv/aivaneto
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/aivaneto-profile_image-7e5c66580a26a4f8-70x70.png
+    Description: What?
+    Since: 7/8/2018
+
+Brodzik:
+    Url: https://www.twitch.tv/brodzik
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/839ed91424e3090a-profile_image-70x70.jpeg
+    Description:
+    Since: 7/8/2018
+
+bizarregaping:
+    Url: https://www.twitch.tv/bizarregaping
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 7/8/2018
+
+blackthewolf:
+    Url: https://www.twitch.tv/blackthewolf
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 7/4/2018
+
+x34rqer3krvjaw254:
+    Url: https://www.twitch.tv/x34rqer3krvjaw254
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 7/3/2018
+
+Bajerovsky:
+    Url: https://www.twitch.tv/bajerovsky
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 7/3/2018
+
+imrosen:
+    Url: https://www.twitch.tv/imrosen
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/17b8d9f2b3100783-profile_banner-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/4b329fd2ec4d70e1-profile_image-70x70.jpeg
+    Description: Hey! I'm Eric. I am an International Master at chess. I live in Chicago, but I'm constantly traveling. I recently graduated from Webster University in May. In addition to playing and teaching chess, I also do freelance web development, design and photography.
+    Since: 7/3/2018
+
+JackyShowss:
+    Url: https://www.twitch.tv/jackyshowss
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 7/3/2018
+
+baronvonbuttplug38:
+    Url: https://www.twitch.tv/baronvonbuttplug38
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 7/2/2018
+
+utoyaislandswimcoach:
+    Url: https://www.twitch.tv/utoyaislandswimcoach
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 7/2/2018
+
+piratasdeltablero:
+    Url: https://www.twitch.tv/piratasdeltablero
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/722d8bc3-81fe-476c-a1d1-c31959c80b27-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/9b72e5c8-9bcc-4dc0-ba51-713ac2a0d627-profile_image-70x70.jpg
+    Description:
+    Since: 7/2/2018
+
+Chess_Noobs800m:
+    Url: https://www.twitch.tv/chess_noobs800m
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 7/2/2018
+
+passmeousside:
+    Url: https://www.twitch.tv/passmeousside
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 7/2/2018
+
+Upendi:
+    Url: https://www.twitch.tv/upendi
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/upendi-profile_banner-84615710a7e22675-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/upendi-profile_image-13a0f2dc6f4d0a3f-70x70.jpeg
+    Description: Watch me be angry and funny. Mostly angry. I play CoD and other random games for fun.
+    Since: 7/2/2018
+
+anonymous597:
+    Url: https://www.twitch.tv/anonymous597
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description: Titanfall2 and fortnite
+    Since: 7/2/2018
+
+ijhchess:
+    Url: https://www.twitch.tv/ijhchess
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description: Check out my photography blog: https://isaachoschphotography.wordpress.com
+    Since: 7/1/2018
+
+Riddlore:
+    Url: https://www.twitch.tv/riddlore
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/riddlore-profile_image-9d311264e2aab40c-70x70.
+    Description:
+    Since: 7/1/2018
+
+220711ismyfavoriteholiday:
+    Url: https://www.twitch.tv/220711ismyfavoriteholiday
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 7/1/2018
+
+thechessguy2_0:
+    Url: https://www.twitch.tv/thechessguy2_0
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/9746ae3a-64e6-4364-9f25-353bc5a8dbf6-profile_banner-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/16833c41-ea08-4fb9-b052-9a990dd8cc87-profile_image-70x70.jpg
+    Description: Im Chess-Guy, but 2.0 !!!
+    Since: 7/1/2018
+
+Malcalyx:
+    Url: https://www.twitch.tv/malcalyx
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/malcalyx-profile_image-96ee06b670d73579-70x70.png
+    Description:
+    Since: 7/1/2018
+
+saintbreivik220711:
+    Url: https://www.twitch.tv/saintbreivik220711
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 6/30/2018
+
+ehstahban:
+    Url: https://www.twitch.tv/ehstahban
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 6/28/2018
+
+stacygouge:
+    Url: https://www.twitch.tv/stacygouge
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 6/28/2018
+
+fyrynadfe5666:
+    Url: https://www.twitch.tv/fyrynadfe5666
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/8739c640-00ad-4b2e-b6a9-053b19569715-profile_image-70x70.jpg
+    Description: Hey there. Hows it going? I stream racing games and Oldschool RuneScape.&quot;
+    Since: 6/28/2018
+
+robstone36herrheiser:
+    Url: https://www.twitch.tv/robstone36herrheiser
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description: YouTuber and Streamer. I dress like a girl and like playing video games. &quot;
+    Since: 6/28/2018
+
+no_skillxgifty:
+    Url: https://www.twitch.tv/no_skillxgifty
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/e44b9485-4012-4ecf-866d-7afe41800d07-profile_image-70x70.jpg
+    Description: www.youtube.com/Steveluuke www.facebook.com/SteveLuuke&quot;
+    Since: 6/28/2018
+
+dagrumblustig:
+    Url: https://www.twitch.tv/dagrumblustig
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/f016d5f2-5066-484e-92a4-91db7e9565ec-profile_image-70x70.jpg
+    Description: My community and I raise positive awareness for content creators and help them accomplish their goals.  As a community we share our positive energy and combine our network outreach. &quot;
+    Since: 6/28/2018
+
+enty1x:
+    Url: https://www.twitch.tv/enty1x
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 6/26/2018
+
+JohnJohn134:
+    Url: https://www.twitch.tv/johnjohn134
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 6/26/2018
+
+luminessen:
+    Url: https://www.twitch.tv/luminessen
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 6/26/2018
+
+Priyank1205:
+    Url: https://www.twitch.tv/priyank1205
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 6/26/2018
+
+gambitguide:
+    Url: https://www.twitch.tv/gambitguide
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/gambitguide-profile_banner-ea9de40b771b8d2d-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/gambitguide-profile_image-b9e7e4024318f165-70x70.jpeg
+    Description: I'm an amateur chess player from Michigan with the goal of someday gaining a master title.
+    Since: 6/26/2018
+
+Lishcphilas:
+    Url: https://www.twitch.tv/lishcphilas
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/lishcphilas-profile_image-6ec0727f830caafa-70x70.jpeg
+    Description: Hi it's Lish here and my name is Pampos PhilaSsides. I am from Cyprus/Nicosia.
+    Since: 6/26/2018
+
+zbarriver:
+    Url: https://www.twitch.tv/zbarriver
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/2d493f05-f909-4912-8a34-a91a2b5dcdd3-profile_image-70x70.jpg
+    Description:
+    Since: 6/26/2018
+
+neomatic1:
+    Url: https://www.twitch.tv/neomatic1
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 6/26/2018
+
+ichbinbreivik:
+    Url: https://www.twitch.tv/ichbinbreivik
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 6/25/2018
+
+ace1886chess:
+    Url: https://www.twitch.tv/ace1886chess
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 6/23/2018
+
+gabriel45959:
+    Url: https://www.twitch.tv/gabriel45959
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 6/23/2018
+
+sodecor:
+    Url: https://www.twitch.tv/sodecor
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 6/21/2018
+
+SquirtleMander12:
+    Url: https://www.twitch.tv/squirtlemander12
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 6/20/2018
+
+RepetitionExtinct:
+    Url: https://www.twitch.tv/repetitionextinct
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 6/18/2018
+
+gmstoppe:
+    Url: https://www.twitch.tv/gmstoppe
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description: 17 years old dude from Germany who loves chess. Due to the fact that I started playing it at the age of 16, I still suck at it. Lichess: ISuuckAtChessLel
+    Since: 6/17/2018
+
+li_Spartako:
+    Url: https://www.twitch.tv/li_spartako
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/ff977b89-ac98-40dd-b60f-2b934b554d1e-profile_image-70x70.jpg
+    Description:
+    Since: 6/17/2018
+
+AchelonX:
+    Url: https://www.twitch.tv/achelonx
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 6/13/2018
+
+guyinbox:
+    Url: https://www.twitch.tv/guyinbox
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/05ed477e-7b52-47d4-924a-a6fbc1080d07-profile_banner-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/c1d14fd9-b784-4680-ba8e-756c97786e79-profile_image-70x70.png
+    Description: Just a guy in a box.
+    Since: 6/13/2018
+
+Bnove:
+    Url: https://www.twitch.tv/bnove
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/9ec56331-c14e-476a-9d20-1963a09d03fa-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/47f08c91-3b8c-492b-95b0-0422e38a4f00-profile_image-70x70.jpg
+    Description: 21 //  South African
+    Since: 6/13/2018
+
+gorol1:
+    Url: https://www.twitch.tv/gorol1
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description: 3nec
+    Since: 6/13/2018
+
+winsoulskappa:
+    Url: https://www.twitch.tv/winsoulskappa
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 6/13/2018
+
+Blazeroe8:
+    Url: https://www.twitch.tv/blazeroe8
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/fed22492-8e5a-464b-9f37-49742cb18f84-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/c322dc88-4bfa-4943-84ef-68d4d96dc2bd-profile_image-70x70.jpg
+    Description: My name is Russell amazing at playing chess badly so Magnus Carlsen's title is still safe,I am now part of the Chesspatzer Nation a new dawn in the chess world is about to begin.
+    Since: 6/13/2018
+
+OG_Norbert:
+    Url: https://www.twitch.tv/og_norbert
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 6/13/2018
+
+Robitr0X:
+    Url: https://www.twitch.tv/robitr0x
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 6/12/2018
+
+leauqis32:
+    Url: https://www.twitch.tv/leauqis32
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 6/10/2018
+
+briley999:
+    Url: https://www.twitch.tv/briley999
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 6/10/2018
+
+draganenco:
+    Url: https://www.twitch.tv/draganenco
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 6/10/2018
+
+d4bestbytest:
+    Url: https://www.twitch.tv/d4bestbytest
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 6/8/2018
+
+PickledPawn:
+    Url: https://www.twitch.tv/pickledpawn
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/9d567e9e-f337-4ff9-bb89-8d1541371963-profile_image-70x70.png
+    Description: An average chess player, trying to make above average moves!
+    Since: 6/7/2018
+
+chessnoob007:
+    Url: https://www.twitch.tv/chessnoob007
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 6/7/2018
+
+lcts123:
+    Url: https://www.twitch.tv/lcts123
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/a8ec7fc9-e57f-4fa3-ac36-54b2767a9590-profile_image-70x70.jpg
+    Description:
+    Since: 6/5/2018
+
+Ramator9:
+    Url: https://www.twitch.tv/ramator9
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 6/5/2018
+
+crusingforabrusing:
+    Url: https://www.twitch.tv/crusingforabrusing
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 6/5/2018
+
+Comma94:
+    Url: https://www.twitch.tv/comma94
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 6/4/2018
+
+GMCanty:
+    Url: https://www.twitch.tv/gmcanty
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/93cfa397-3fd4-40ee-90ee-d36f06f23890-profile_banner-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/24880efb-130b-4e69-9c93-4fcd0922f532-profile_image-70x70.jpg
+    Description: James Canty III 26 year old National Master. Professional Chess Player and Coach
+    Since: 6/4/2018
+
+fj_palacios:
+    Url: https://www.twitch.tv/fj_palacios
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 6/3/2018
+
+DeTorenRules:
+    Url: https://www.twitch.tv/detorenrules
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/detorenrules-profile_banner-b1e216ae45877826-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/detorenrules-profile_image-8ec79a392a955ebf-70x70.jpeg
+    Description:
+    Since: 6/3/2018
+
+droralmog:
+    Url: https://www.twitch.tv/droralmog
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 6/2/2018
+
+MoistForFinegold:
+    Url: https://www.twitch.tv/moistforfinegold
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 6/2/2018
+
+fhadeen31:
+    Url: https://www.twitch.tv/fhadeen31
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 6/2/2018
+
+john_spurgeon12:
+    Url: https://www.twitch.tv/john_spurgeon12
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 6/2/2018
+
+reverendpastor:
+    Url: https://www.twitch.tv/reverendpastor
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 6/2/2018
+
+Glo4k:
+    Url: https://www.twitch.tv/glo4k
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/deee32aa8b18387c-profile_banner-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/cb4d6c450980f751-profile_image-70x70.jpeg
+    Description:
+    Since: 6/2/2018
+
+zerg99:
+    Url: https://www.twitch.tv/zerg99
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 5/28/2018
+
+zefcatt:
+    Url: https://www.twitch.tv/zefcatt
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/51669399-1ffa-483e-9906-5eb6b5c31a82-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/50d966cb-df41-4789-9207-928b581a229f-profile_image-70x70.jpg
+    Description: Camelclutchers sister
+    Since: 5/28/2018
+
+jni___:
+    Url: https://www.twitch.tv/jni___
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 5/27/2018
+
+bettertimenextluck:
+    Url: https://www.twitch.tv/bettertimenextluck
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 5/27/2018
+
+antpaw:
+    Url: https://www.twitch.tv/antpaw
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/antpaw-profile_banner-d901ed686be5beb9-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/antpaw-profile_image-0ed8cdf6aeca889f-70x70.png
+    Description: Streaming for fun!
+    Since: 5/27/2018
+
+smellmyfart2times:
+    Url: https://www.twitch.tv/smellmyfart2times
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 5/27/2018
+
+Willwolf42069:
+    Url: https://www.twitch.tv/willwolf42069
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 5/27/2018
+
+virgulatefire:
+    Url: https://www.twitch.tv/virgulatefire
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 5/27/2018
+
+MICKEk1977:
+    Url: https://www.twitch.tv/mickek1977
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/d438f2ec-7585-4387-a276-ba4f4bbb1da4-profile_image-70x70.jpg
+    Description: Jag är jag fattar du väl!
+    Since: 5/27/2018
+
+BeratcanIsTaken:
+    Url: https://www.twitch.tv/beratcanistaken
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 5/27/2018
+
+thinkguru:
+    Url: https://www.twitch.tv/thinkguru
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 5/27/2018
+
+Rosinsvinet:
+    Url: https://www.twitch.tv/rosinsvinet
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 5/27/2018
+
+pollofrittoo:
+    Url: https://www.twitch.tv/pollofrittoo
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 5/27/2018
+
+無敵のゲルマン魂:
+    Url: https://www.twitch.tv/haranaitype
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/haranaitype-profile_image-b3256120343a1295-70x70.png
+    Description:
+    Since: 5/27/2018
+
+cooptwitch91:
+    Url: https://www.twitch.tv/cooptwitch91
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 5/27/2018
+
+hash11011:
+    Url: https://www.twitch.tv/hash11011
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 5/27/2018
+
+DemSieHuldigen:
+    Url: https://www.twitch.tv/demsiehuldigen
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description: Fascinating human being. Deep analyzer.
+    Since: 5/27/2018
+
+AlysaGapes:
+    Url: https://www.twitch.tv/alysagapes
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 5/27/2018
+
+Dharaig:
+    Url: https://www.twitch.tv/dharaig
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/dbbbb7ee-2138-411f-a0f7-cce48d5014eb-profile_image-70x70.png
+    Description:
+    Since: 5/25/2018
+
+JohnMaddenChess:
+    Url: https://www.twitch.tv/johnmaddenchess
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 5/18/2018
+
+idiosincrasiaa:
+    Url: https://www.twitch.tv/idiosincrasiaa
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 5/18/2018
+
+laurenod3:
+    Url: https://www.twitch.tv/laurenod3
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 5/18/2018
+
+mate_in_20:
+    Url: https://www.twitch.tv/mate_in_20
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 5/18/2018
+
+Splashar:
+    Url: https://www.twitch.tv/splashar
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/splashar-profile_banner-ecc87f99a32bb151-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/splashar-profile_image-8055200bd919fd40-70x70.jpeg
+    Description: Young And Rising Chess and the occasional Poker Player
+    Since: 5/18/2018
+
+vegan_chessmaster:
+    Url: https://www.twitch.tv/vegan_chessmaster
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 5/17/2018
+
+lovesssbbwgrandmas:
+    Url: https://www.twitch.tv/lovesssbbwgrandmas
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 5/17/2018
+
+macintyred:
+    Url: https://www.twitch.tv/macintyred
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 5/17/2018
+
+irui777:
+    Url: https://www.twitch.tv/irui777
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 5/17/2018
+
+salty_clown:
+    Url: https://www.twitch.tv/salty_clown
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 5/17/2018
+
+the_ancient_gamer:
+    Url: https://www.twitch.tv/the_ancient_gamer
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/65154ccc-9599-46fa-8ad2-6d7f32c15c85-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/5bc04ba3301e7069-profile_image-70x70.jpeg
+    Description:
+    Since: 5/17/2018
+
+SaurabhxD:
+    Url: https://www.twitch.tv/saurabhxd
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/65a0bb1f-bd98-4272-86cb-f04d505d38e5-profile_image-70x70.jpg
+    Description:
+    Since: 5/17/2018
+
+xINSECTO:
+    Url: https://www.twitch.tv/xinsecto
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description: heyyyy
+    Since: 5/17/2018
+
+andreijl:
+    Url: https://www.twitch.tv/andreijl
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 5/17/2018
+
+RajMithun:
+    Url: https://www.twitch.tv/rajmithun
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 5/15/2018
+
+dablackcat2:
+    Url: https://www.twitch.tv/dablackcat2
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 5/14/2018
+
+haschug:
+    Url: https://www.twitch.tv/haschug
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 5/14/2018
+
+sasha2165:
+    Url: https://www.twitch.tv/sasha2165
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/sasha2165-profile_banner-52734ad8083e9dd1-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/sasha2165-profile_image-22969a6651444bd5-70x70.jpeg
+    Description: ...
+    Since: 5/14/2018
+
+cleverbeans:
+    Url: https://www.twitch.tv/cleverbeans
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 5/14/2018
+
+rgalleg7:
+    Url: https://www.twitch.tv/rgalleg7
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 5/14/2018
+
+Khovatic:
+    Url: https://www.twitch.tv/khovatic
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/khovatic-profile_banner-a700c629022a7eef-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/khovatic-profile_image-75fe886d6d1c12c0-70x70.jpeg
+    Description:
+    Since: 5/14/2018
+
+heetluh:
+    Url: https://www.twitch.tv/heetluh
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 5/14/2018
+
+Violatic:
+    Url: https://www.twitch.tv/violatic
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/8cab8063-f84e-42eb-bcb7-375e7fcb56de-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/violatic-profile_image-f2398b865f61d51f-70x70.png
+    Description: Variety Streamer, I play hard games for a while then grind the next challenge!
+    Since: 5/14/2018
+
+biological1:
+    Url: https://www.twitch.tv/biological1
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 5/13/2018
+
+rrhydd:
+    Url: https://www.twitch.tv/rrhydd
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 5/13/2018
+
+rooooks33:
+    Url: https://www.twitch.tv/rooooks33
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 5/13/2018
+
+12probando:
+    Url: https://www.twitch.tv/12probando
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/e52a7349-6d27-4656-a687-8ebd470cb062-profile_image-70x70.jpg
+    Description:
+    Since: 5/13/2018
+
+emanuele6:
+    Url: https://www.twitch.tv/emanuele6
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/e172c234-dbe3-46e5-88d3-9e82bd90f6e2-profile_image-70x70.png
+    Description:
+    Since: 5/13/2018
+
+DrOctagone:
+    Url: https://www.twitch.tv/droctagone
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 5/13/2018
+
+nikolaostsitsoulis:
+    Url: https://www.twitch.tv/nikolaostsitsoulis
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 5/12/2018
+
+hbe614:
+    Url: https://www.twitch.tv/hbe614
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/hbe614-profile_image-e88fd4303e3e843c-70x70.jpeg
+    Description:
+    Since: 5/11/2018
+
+KSandwich:
+    Url: https://www.twitch.tv/ksandwich
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 5/11/2018
+
+Purefan:
+    Url: https://www.twitch.tv/purefan
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/bc820052-f6af-4292-86d1-0fb9f3f9b761-profile_banner-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/db5308ca-1ade-440d-89d1-f7c9e4e83753-profile_image-70x70.png
+    Description:
+    Since: 5/11/2018
+
+ChessWithChris:
+    Url: https://www.twitch.tv/chesswithchris
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/31340dff-daa4-4719-8de8-c7d41a0a4536-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/155e03f5-45d2-4d27-81c8-a7ec9b57f5eb-profile_image-70x70.jpg
+    Description: Have Fun, Learn Chess
+    Since: 5/11/2018
+
+tomatjuice123:
+    Url: https://www.twitch.tv/tomatjuice123
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 5/11/2018
+
+HeyGnc:
+    Url: https://www.twitch.tv/heygnc
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 5/11/2018
+
+SpectateFakersteel:
+    Url: https://www.twitch.tv/spectatefakersteel
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 5/11/2018
+
+vancev94:
+    Url: https://www.twitch.tv/vancev94
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description: Wrestling and Chess.
+    Since: 5/11/2018
+
+GoodestTenk:
+    Url: https://www.twitch.tv/goodesttenk
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 5/11/2018
+
+cadynss:
+    Url: https://www.twitch.tv/cadynss
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/aa2b4de9-fe4a-4365-b84e-eaf99613f7b8-profile_banner-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/f56389c2-d038-422c-b2f4-f8950c841355-profile_image-70x70.png
+    Description:
+    Since: 5/11/2018
+
+hendrix2525:
+    Url: https://www.twitch.tv/hendrix2525
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 5/11/2018
+
+scukl:
+    Url: https://www.twitch.tv/scukl
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/2440f0aa-b3a5-42c4-8f1d-9f5d4d237d91-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/4d433bc5-5d5b-4c9a-a360-0fb6fede49fb-profile_image-70x70.png
+    Description:
+    Since: 5/10/2018
+
+misterajedrez:
+    Url: https://www.twitch.tv/misterajedrez
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 5/10/2018
+
+the_flesh_curtains:
+    Url: https://www.twitch.tv/the_flesh_curtains
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 5/9/2018
+
+Noller22:
+    Url: https://www.twitch.tv/noller22
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/50483237-286a-4511-9fa3-5fb6765ff527-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description: Chess and fun
+    Since: 5/8/2018
+
+AARtunm:
+    Url: https://www.twitch.tv/aartunm
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 5/8/2018
+
+The_Chess_Death_Cult:
+    Url: https://www.twitch.tv/the_chess_death_cult
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/aef85a15-c228-45b9-995d-f294e0520b4d-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/b24297dc-02d1-4a93-885a-67e4aada3b5a-profile_image-70x70.jpg
+    Description: Deviants, Romantics, Drug addicts, Peddlers, Libertines, Alcoholics, Dealers, the Misfits and the Debauched - COME JOIN US. We ARE You. You don't have to play well.  It's never about how we win; it's about  the way in which we lose.  Lose beautifully. Lose everything except your soul. X
+    Since: 5/8/2018
+
+azuaga97:
+    Url: https://www.twitch.tv/azuaga97
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 5/8/2018
+
+RexSinquefield:
+    Url: https://www.twitch.tv/rexsinquefield
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 5/8/2018
+
+johnbrazel:
+    Url: https://www.twitch.tv/johnbrazel
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 5/8/2018
+
+valen770:
+    Url: https://www.twitch.tv/valen770
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 5/7/2018
+
+salah71:
+    Url: https://www.twitch.tv/salah71
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 5/7/2018
+
+Brokulaa:
+    Url: https://www.twitch.tv/brokulaa
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 5/7/2018
+
+borovnica035:
+    Url: https://www.twitch.tv/borovnica035
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 5/7/2018
+
+palestinianknight:
+    Url: https://www.twitch.tv/palestinianknight
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 5/7/2018
+
+DrawMeister2017:
+    Url: https://www.twitch.tv/drawmeister2017
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 5/7/2018
+
+arturnawro:
+    Url: https://www.twitch.tv/arturnawro
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/d45aaef4-bf3a-4f0e-a8fd-6396f7f2cba9-profile_image-70x70.png
+    Description:
+    Since: 5/6/2018
+
+breivik770:
+    Url: https://www.twitch.tv/breivik770
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 5/6/2018
+
+arex1338:
+    Url: https://www.twitch.tv/arex1338
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/arex1338-profile_image-23cd154f484a1246-70x70.jpeg
+    Description: My name is Alex. I'm a Lichess contributor, moderator and developer. I live in Oslo, Norway. I work in IT.
+    Since: 5/6/2018
+
+nielswint:
+    Url: https://www.twitch.tv/nielswint
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 5/6/2018
+
+onetimeijerkedoff:
+    Url: https://www.twitch.tv/onetimeijerkedoff
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 5/6/2018
+
+aidenalphabet:
+    Url: https://www.twitch.tv/aidenalphabet
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/de398e8c-0b8a-4603-83e5-36f56441dead-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/93db0330-b8c5-467d-9c25-3a89a78595bc-profile_image-70x70.jpg
+    Description: Cheese made me stream
+    Since: 5/6/2018
+
+7hegriff:
+    Url: https://www.twitch.tv/7hegriff
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 5/6/2018
+
+King_Wiki:
+    Url: https://www.twitch.tv/king_wiki
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/king_wiki-profile_banner-36729f150a0f18d1-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/king_wiki-profile_image-eb08841dd1172d46-70x70.jpeg
+    Description: I love chess.
+    Since: 5/4/2018
+
+chiefabowl:
+    Url: https://www.twitch.tv/chiefabowl
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 5/4/2018
+
+Thornralston:
+    Url: https://www.twitch.tv/thornralston
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 5/4/2018
+
+chessfun27:
+    Url: https://www.twitch.tv/chessfun27
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 5/4/2018
+
+totalverpeilt:
+    Url: https://www.twitch.tv/totalverpeilt
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 5/4/2018
+
+Ploucroux:
+    Url: https://www.twitch.tv/ploucroux
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/90b009d7-574b-4880-8b9a-c38242663938-profile_image-70x70.png
+    Description:
+    Since: 5/4/2018
+
+geoffreyhale:
+    Url: https://www.twitch.tv/geoffreyhale
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/73f5aac7-12a2-4e7d-a8b1-4c62a561feb3-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/1a23d695-787e-49e9-8e8d-94929585efda-profile_image-70x70.png
+    Description: chess and games
+    Since: 5/4/2018
+
+kbj12345:
+    Url: https://www.twitch.tv/kbj12345
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/kbj12345-profile_image-c29672524e1bc5b7-70x70.jpeg
+    Description: Old Very old GAMER likes to have lots of fun dont rage quit That... much :)
+    Since: 5/4/2018
+
+radicalfreedom:
+    Url: https://www.twitch.tv/radicalfreedom
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 5/4/2018
+
+chesskolik:
+    Url: https://www.twitch.tv/chesskolik
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/chesskolik-profile_banner-3868cf88e92dff61-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/chesskolik-profile_image-47b873b1b883fb4c-70x70.png
+    Description: Hi!  Youtube Channel: https://www.youtube.com/channel/UCW7sQVRj64Yp6j_K5BjEQFg
+    Since: 5/4/2018
+
+rpd350:
+    Url: https://www.twitch.tv/rpd350
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/e4c21a50-36dd-421d-99e7-62189d712519-profile_banner-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/01529dd5-b53d-494a-a64a-ca61e1c3d171-profile_image-70x70.png
+    Description: Generalist in many areas of life and expert in none and a passionate yet perpetual student of chess.
+    Since: 5/4/2018
+
+SpewReeky:
+    Url: https://www.twitch.tv/spewreeky
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/6aeade5b1ca928a5-profile_image-70x70.jpeg
+    Description:
+    Since: 5/3/2018
+
+fukyousjow:
+    Url: https://www.twitch.tv/fukyousjow
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 5/3/2018
+
+count2three3times:
+    Url: https://www.twitch.tv/count2three3times
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 5/1/2018
+
+alaz2006:
+    Url: https://www.twitch.tv/alaz2006
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 5/1/2018
+
+mehget:
+    Url: https://www.twitch.tv/mehget
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 5/1/2018
+
+JackieTheSwede:
+    Url: https://www.twitch.tv/jackietheswede
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 5/1/2018
+
+myteachersam:
+    Url: https://www.twitch.tv/myteachersam
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/256acd95-c2a1-4e8f-8318-7f0c935d6f79-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/d16d1c21-fbaf-4d1b-b126-d44d4c5808c6-profile_image-70x70.png
+    Description: Chess + Diablo 3 + Overwatch = Love
+    Since: 5/1/2018
+
+lucymoody:
+    Url: https://www.twitch.tv/lucymoody
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/1452cb89-1acc-4c8f-a3f6-1c9a77bb0789-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/668dd50b-a5fb-4fdf-8bf9-95338f876b96-profile_image-70x70.jpg
+    Description: HalLo ITS Lucifer. U can  call me lucy :D
+    Since: 5/1/2018
+
+0birdofhermes:
+    Url: https://www.twitch.tv/0birdofhermes
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 5/1/2018
+
+oneofbreivikspenpals:
+    Url: https://www.twitch.tv/oneofbreivikspenpals
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 5/1/2018
+
+realjacobmitch:
+    Url: https://www.twitch.tv/realjacobmitch
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 4/30/2018
+
+joshcow:
+    Url: https://www.twitch.tv/joshcow
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/joshcow-profile_image-f82c68738ba8106a-70x70.jpeg
+    Description:
+    Since: 4/30/2018
+
+oilyball:
+    Url: https://www.twitch.tv/oilyball
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/oilyball-profile_image-52fc82eb93bbd6d1-70x70.jpeg
+    Description: :D
+    Since: 4/30/2018
+
+greenblob808:
+    Url: https://www.twitch.tv/greenblob808
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/efd47a08-0472-4add-97ae-7bb15f524714-profile_image-70x70.png
+    Description:
+    Since: 4/30/2018
+
+Palmroth197:
+    Url: https://www.twitch.tv/palmroth197
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 4/30/2018
+
+DEEPwolveriine:
+    Url: https://www.twitch.tv/deepwolveriine
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 4/29/2018
+
+undtr:
+    Url: https://www.twitch.tv/undtr
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 4/29/2018
+
+iglookid:
+    Url: https://www.twitch.tv/iglookid
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 4/29/2018
+
+puckingrighteh:
+    Url: https://www.twitch.tv/puckingrighteh
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 4/27/2018
+
+richlifetv:
+    Url: https://www.twitch.tv/richlifetv
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 4/23/2018
+
+iboop3:
+    Url: https://www.twitch.tv/iboop3
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 4/23/2018
+
+gary_fang:
+    Url: https://www.twitch.tv/gary_fang
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 4/22/2018
+
+colin_clarke:
+    Url: https://www.twitch.tv/colin_clarke
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 4/22/2018
+
+ruffianeo:
+    Url: https://www.twitch.tv/ruffianeo
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 4/20/2018
+
+hiarias:
+    Url: https://www.twitch.tv/hiarias
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 4/20/2018
+
+feargach:
+    Url: https://www.twitch.tv/feargach
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/2e9780c8-aecc-46d3-89fa-2947475d3117-profile_image-70x70.png
+    Description:
+    Since: 4/20/2018
+
+whitekid2000:
+    Url: https://www.twitch.tv/whitekid2000
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 4/17/2018
+
+ballorica:
+    Url: https://www.twitch.tv/ballorica
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 4/16/2018
+
+JasonPierreSweeney:
+    Url: https://www.twitch.tv/jasonpierresweeney
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 4/16/2018
+
+shinjiikarichess:
+    Url: https://www.twitch.tv/shinjiikarichess
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/f660bf12-ecc6-4795-becc-b52b284d1943-profile_image-70x70.png
+    Description: F# |&amp;gt; I loveChess |&amp;gt; I love
+    Since: 4/12/2018
+
+hubbins34:
+    Url: https://www.twitch.tv/hubbins34
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 4/8/2018
+
+ivyym:
+    Url: https://www.twitch.tv/ivyym
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 4/8/2018
+
+PanMasinkator:
+    Url: https://www.twitch.tv/panmasinkator
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 4/5/2018
+
+chessopoker:
+    Url: https://www.twitch.tv/chessopoker
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 4/3/2018
+
+Pitju99:
+    Url: https://www.twitch.tv/pitju99
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 4/1/2018
+
+willypiam:
+    Url: https://www.twitch.tv/willypiam
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 4/1/2018
+
+gatinhost:
+    Url: https://www.twitch.tv/gatinhost
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 4/1/2018
+
+ZestOfLife:
+    Url: https://www.twitch.tv/zestoflife
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 4/1/2018
+
+asterrin:
+    Url: https://www.twitch.tv/asterrin
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/34667eb6-c99d-4639-b362-837524e4c267-profile_image-70x70.jpg
+    Description: 17 years old
+    Since: 4/1/2018
+
+cbannetti:
+    Url: https://www.twitch.tv/cbannetti
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 4/1/2018
+
+lemondoodle123:
+    Url: https://www.twitch.tv/lemondoodle123
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 4/1/2018
+
+yasminedry:
+    Url: https://www.twitch.tv/yasminedry
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description: Peace and love ✌️
+    Since: 4/1/2018
+
+farukaksu:
+    Url: https://www.twitch.tv/farukaksu
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 4/1/2018
+
+josef17tv:
+    Url: https://www.twitch.tv/josef17tv
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/d465c068-870e-4f8a-b340-4e4e0ad21715-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/e61ad237-4cf8-46a0-b8eb-5e45ab151d63-profile_image-70x70.png
+    Description:
+    Since: 4/1/2018
+
+bayukhairul:
+    Url: https://www.twitch.tv/bayukhairul
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 3/31/2018
+
+elbuenrogroto:
+    Url: https://www.twitch.tv/elbuenrogroto
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 3/31/2018
+
+533444655:
+    Url: https://www.twitch.tv/533444655
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 3/30/2018
+
+Amitesh123:
+    Url: https://www.twitch.tv/amitesh123
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/8724200a-b29e-4cd7-b65e-f7b2421f7551-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/37011d13-263c-4555-b961-61731b003672-profile_image-70x70.jpg
+    Description:
+    Since: 3/29/2018
+
+boraboy23:
+    Url: https://www.twitch.tv/boraboy23
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 3/29/2018
+
+desertbuj:
+    Url: https://www.twitch.tv/desertbuj
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/25fbbca7-a997-4ba0-93e2-545387fdf42d-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/46718f52-72bf-4008-a863-303159417a52-profile_image-70x70.jpg
+    Description:
+    Since: 3/29/2018
+
+supreme_pattyo:
+    Url: https://www.twitch.tv/supreme_pattyo
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 3/26/2018
+
+DonNestor:
+    Url: https://www.twitch.tv/donnestor
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/28fc6aef-e19e-4c2f-8ea7-41b85c71e4a4-profile_image-70x70.png
+    Description:
+    Since: 3/26/2018
+
+openinventory:
+    Url: https://www.twitch.tv/openinventory
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 3/25/2018
+
+Atomic__player:
+    Url: https://www.twitch.tv/atomic__player
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/15285480-6c45-4050-9ce3-13da03b29cd6-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/1ae03604-c864-4b31-9132-cff39838c115-profile_image-70x70.png
+    Description: Playing Chess and Solving Puzzles on chess.com and lichess.org
+    Since: 3/25/2018
+
+RoadSo:
+    Url: https://www.twitch.tv/roadso
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/4a9a229d-4365-4d40-8946-6bbe179f88f1-profile_image-70x70.jpg
+    Description:
+    Since: 3/25/2018
+
+junocampo2018:
+    Url: https://www.twitch.tv/junocampo2018
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 3/25/2018
+
+Dhivakaran:
+    Url: https://www.twitch.tv/dhivakaran
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 3/22/2018
+
+mikey1893:
+    Url: https://www.twitch.tv/mikey1893
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 3/22/2018
+
+deptslave:
+    Url: https://www.twitch.tv/deptslave
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/a9959dd3-3459-47c8-b692-12120dd60a98-profile_image-70x70.png
+    Description:
+    Since: 3/22/2018
+
+jordan_404:
+    Url: https://www.twitch.tv/jordan_404
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/f4dc3f5b-4260-48c4-9faa-f0fb63fbd74a-profile_image-70x70.png
+    Description:
+    Since: 3/22/2018
+
+mainsequence12:
+    Url: https://www.twitch.tv/mainsequence12
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/mainsequence12-profile_banner-cb89326b547816e6-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/ebbee0bc-3d01-4784-a778-fda077697e9c-profile_image-70x70.jpg
+    Description: Join me on a magical chess journey.
+    Since: 3/22/2018
+
+Tomdraug:
+    Url: https://www.twitch.tv/tomdraug
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 3/18/2018
+
+Bilisios:
+    Url: https://www.twitch.tv/bilisios
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 3/18/2018
+
+CatWeb99:
+    Url: https://www.twitch.tv/catweb99
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/130dbb0a-4fc0-46d6-8c13-7a6e4b1090d6-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/f93ee2af-6637-4f26-b1f0-c00cd2d3338f-profile_image-70x70.png
+    Description: Sup
+    Since: 3/11/2018
+
+msn2cool4u:
+    Url: https://www.twitch.tv/msn2cool4u
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 3/10/2018
+
+hotpotato325:
+    Url: https://www.twitch.tv/hotpotato325
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/hotpotato325-profile_banner-c3aefc3f6af127a2-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/hotpotato325-profile_image-9f21856064209c16-70x70.png
+    Description: I play League of Legends
+    Since: 3/8/2018
+
+LordSatanin:
+    Url: https://www.twitch.tv/lordsatanin
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/lordsatanin-profile_banner-09b121c7c63ba52c-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/lordsatanin-profile_image-ebe57ca629ec2cef-70x70.png
+    Description: Daddy, Video Games Lover
+    Since: 3/6/2018
+
+ChessChopin:
+    Url: https://www.twitch.tv/chesschopin
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/6d1b188fc9550d32-profile_banner-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/01ba1a70db827d7b-profile_image-70x70.jpeg
+    Description:
+    Since: 3/3/2018
+
+tamhas1:
+    Url: https://www.twitch.tv/tamhas1
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 2/27/2018
+
+Rafael556998:
+    Url: https://www.twitch.tv/rafael556998
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 2/22/2018
+
+hungerkuenstler:
+    Url: https://www.twitch.tv/hungerkuenstler
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 2/22/2018
+
+Beat_the_clown:
+    Url: https://www.twitch.tv/beat_the_clown
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 2/19/2018
+
+RommeldaFox:
+    Url: https://www.twitch.tv/rommeldafox
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 2/18/2018
+
+ante_e:
+    Url: https://www.twitch.tv/ante_e
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 2/18/2018
+
+StapletonChess:
+    Url: https://www.twitch.tv/stapletonchess
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/13744f8169d0feb4-profile_banner-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/8b16048e-0dd9-4526-ac6a-5d3fee8ee87f-profile_image-70x70.jpg
+    Description:
+    Since: 2/16/2018
+
+C_complex:
+    Url: https://www.twitch.tv/c_complex
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/d818434529a42117-profile_image-70x70.jpeg
+    Description:
+    Since: 2/15/2018
+
+panMasinka:
+    Url: https://www.twitch.tv/panmasinka
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 2/13/2018
+
+thealex1011:
+    Url: https://www.twitch.tv/thealex1011
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 2/6/2018
+
+snommah2:
+    Url: https://www.twitch.tv/snommah2
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 2/4/2018
+
+Loyd_Bonfire:
+    Url: https://www.twitch.tv/loyd_bonfire
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 2/4/2018
+
+jiujitsuyogi:
+    Url: https://www.twitch.tv/jiujitsuyogi
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/53b1c8e7-cec0-49d4-aeee-5e5750270055-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/55c0d419-91a4-46cf-ab13-07ddacf95703-profile_image-70x70.jpg
+    Description: Old school games is where its at. Follow me for the classics. Amateur Chess enthusiast, Tomb Raider is my current fav. Cooking and baking too!
+    Since: 2/4/2018
+
+Siovaen:
+    Url: https://www.twitch.tv/siovaen
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/siovaen-profile_image-9cc529b876056d5e-70x70.jpeg
+    Description:
+    Since: 2/2/2018
+
+MaybachZJ:
+    Url: https://www.twitch.tv/maybachzj
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description: GM Zerg, smfc CS Go player, Platinum LoL player
+    Since: 2/2/2018
+
+sachinsaju:
+    Url: https://www.twitch.tv/sachinsaju
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 2/2/2018
+
+StraightUpChill:
+    Url: https://www.twitch.tv/straightupchill
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/991e50d2-4cab-496a-91e4-dc94689b5b63-profile_image-70x70.png
+    Description: Formerly RawVeganGrooves, your average broom salesman.  Now StraightUpChill cause.  https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg nfogaras
+    Since: 2/2/2018
+
+nfogaras:
+    Url: https://www.twitch.tv/nfogaras
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 2/2/2018
+
+carretafuracao:
+    Url: https://www.twitch.tv/carretafuracao
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 1/30/2018
+
+Tboy002:
+    Url: https://www.twitch.tv/tboy002
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 1/30/2018
+
+joshnewman15:
+    Url: https://www.twitch.tv/joshnewman15
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 1/30/2018
+
+FirstBlank:
+    Url: https://www.twitch.tv/firstblank
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 1/25/2018
+
+vmv1158:
+    Url: https://www.twitch.tv/vmv1158
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 1/24/2018
+
+cocobuttking:
+    Url: https://www.twitch.tv/cocobuttking
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 1/22/2018
+
+AlbertoALC:
+    Url: https://www.twitch.tv/albertoalc
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 1/22/2018
+
+HeirToACrumblingSummit:
+    Url: https://www.twitch.tv/heirtoacrumblingsummit
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/e993cd3f84ea4b89-profile_image-70x70.jpeg
+    Description: //todo:  add heartwarming life story here
+    Since: 1/22/2018
+
+alienfu:
+    Url: https://www.twitch.tv/alienfu
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 1/22/2018
+
+Maramandan:
+    Url: https://www.twitch.tv/maramandan
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 1/22/2018
+
+BigReno:
+    Url: https://www.twitch.tv/bigreno
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/05b40acd-18a7-4b27-8dba-efd78d3e6cba-profile_image-70x70.jpg
+    Description: Chess player, rated around 1700, from Sydney Australia
+    Since: 1/22/2018
+
+extratacet:
+    Url: https://www.twitch.tv/extratacet
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/extratacet-profile_banner-4dfeeab28ba0bf8f-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/extratacet-profile_image-d0a1297e1c51d88a-70x70.jpeg
+    Description:
+    Since: 1/22/2018
+
+mysickduck:
+    Url: https://www.twitch.tv/mysickduck
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 1/22/2018
+
+fabio656:
+    Url: https://www.twitch.tv/fabio656
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/0420b7a9-eac7-45ef-8ba1-771fca65dcc9-profile_image-70x70.jpg
+    Description: Chess lover. I am 'ScaccoLento' on lichess.org and 'Fabio656' on chess.com
+    Since: 1/22/2018
+
+DouglasGPerry:
+    Url: https://www.twitch.tv/douglasgperry
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/c86ab766-b3f1-46ee-b67a-2e7633757aff-profile_image-70x70.png
+    Description:
+    Since: 1/22/2018
+
+iVitorzZz:
+    Url: https://www.twitch.tv/ivitorzzz
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 1/22/2018
+
+chaitanyaharish87:
+    Url: https://www.twitch.tv/chaitanyaharish87
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description: I love chess . Practicing for great scope in chess 😎😎😘😀😁
+    Since: 1/22/2018
+
+timoru:
+    Url: https://www.twitch.tv/timoru
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/timoru-profile_image-7fd94860149978eb-70x70.png
+    Description:
+    Since: 1/22/2018
+
+c4ndel4:
+    Url: https://www.twitch.tv/c4ndel4
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 1/22/2018
+
+Sokolsky:
+    Url: https://www.twitch.tv/sokolsky
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/sokolsky-profile_banner-4cf52005c5706db3-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/sokolsky-profile_image-7a4d4d85bd34d341-70x70.jpeg
+    Description: Hi! I love chess and video games!
+    Since: 1/19/2018
+
+zeitgeistmovement:
+    Url: https://www.twitch.tv/zeitgeistmovement
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/60c11995-40e4-4431-b106-83753061f9d5-profile_image-70x70.png
+    Description:
+    Since: 1/19/2018
+
+WithFeeling:
+    Url: https://www.twitch.tv/withfeeling
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/0d150ee1-e86c-490a-85c8-fad3cb7f2840-profile_banner-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/withfeeling-profile_image-34d0b8cc23dcabfc-70x70.jpeg
+    Description: I play games of the Touhou Project, poorly.
+    Since: 1/19/2018
+
+el_ignorante:
+    Url: https://www.twitch.tv/el_ignorante
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 1/19/2018
+
+cipheredbytes:
+    Url: https://www.twitch.tv/cipheredbytes
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/cipheredbytes-profile_image-43ade3b034295603-70x70.jpeg
+    Description: IT Geek &amp; Engineer
+    Since: 1/19/2018
+
+Ralke013:
+    Url: https://www.twitch.tv/ralke013
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 1/19/2018
+
+Opri:
+    Url: https://www.twitch.tv/opri
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/opri-profile_banner-429b68584df732f2-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/opri-profile_image-6d96d6611cdd1651-70x70.jpeg
+    Description: amateur
+    Since: 1/18/2018
+
+SweetTeaJordan:
+    Url: https://www.twitch.tv/sweetteajordan
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/sweetteajordan-profile_banner-c1b7eff503e01bb8-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/sweetteajordan-profile_image-ec4bd72f9ac4b8cc-70x70.png
+    Description:
+    Since: 1/16/2018
+
+Entav92:
+    Url: https://www.twitch.tv/entav92
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 1/14/2018
+
+AshevillePlus:
+    Url: https://www.twitch.tv/ashevilleplus
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/28eb5730-aa68-42f6-af57-4294311302f5-profile_image-70x70.jpg
+    Description: http://www.AshevillePlus.com
+    Since: 1/13/2018
+
+genius147:
+    Url: https://www.twitch.tv/genius147
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 1/12/2018
+
+Lance5500:
+    Url: https://www.twitch.tv/lance5500
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/lance5500-profile_image-01a495557070591b-70x70.jpeg
+    Description: Hello, I am a chess teacher. Please contact me if you are interested in online chess lessons and improvement.
+    Since: 1/11/2018
+
+mepasoure:
+    Url: https://www.twitch.tv/mepasoure
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/092a9cfc-3ae2-4368-9d57-713260e34ada-profile_image-70x70.jpg
+    Description:
+    Since: 1/8/2018
+
+trinaran:
+    Url: https://www.twitch.tv/trinaran
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 1/7/2018
+
+hagdx:
+    Url: https://www.twitch.tv/hagdx
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 1/7/2018
+
+nullvalue8:
+    Url: https://www.twitch.tv/nullvalue8
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 1/7/2018
+
+emperor2706:
+    Url: https://www.twitch.tv/emperor2706
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 1/7/2018
+
+XtremeToaster:
+    Url: https://www.twitch.tv/xtremetoaster
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 1/7/2018
+
+my7hai:
+    Url: https://www.twitch.tv/my7hai
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 1/7/2018
+
+mar598:
+    Url: https://www.twitch.tv/mar598
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 1/7/2018
+
+garrekt_doe:
+    Url: https://www.twitch.tv/garrekt_doe
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 1/4/2018
+
+beastmodeart:
+    Url: https://www.twitch.tv/beastmodeart
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 1/3/2018
+
+Plumbeo:
+    Url: https://www.twitch.tv/plumbeo
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 1/3/2018
+
+sazedchess:
+    Url: https://www.twitch.tv/sazedchess
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 12/31/2017
+
+Anatoledu67:
+    Url: https://www.twitch.tv/anatoledu67
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/anatoledu67-profile_banner-d0829dce7fa5232d-480.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description: je reviens a la rentrée
+    Since: 12/31/2017
+
+Arix___:
+    Url: https://www.twitch.tv/arix___
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 12/31/2017
+
+mukkimage:
+    Url: https://www.twitch.tv/mukkimage
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 12/31/2017
+
+floydAkash:
+    Url: https://www.twitch.tv/floydakash
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description: Satanic Rituals bore me.
+    Since: 12/31/2017
+
+theLAZYmd:
+    Url: https://www.twitch.tv/thelazymd
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/5717b8d1-a335-4a87-bae1-91d1e2f218ee-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/8736c546-ed07-43f0-abd5-5c3ff0386b87-profile_image-70x70.png
+    Description:
+    Since: 12/31/2017
+
+CormacOBear:
+    Url: https://www.twitch.tv/cormacobear
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/cormacobear-profile_image-2155d590ef1fb3f8-70x70.jpeg
+    Description: Canadian: I hang out on Twitch to watch Dungeons and Dragons, Dungeons and Dragons Online (the MMORPG), and chess which I am terrible at.
+    Since: 12/31/2017
+
+ayoubsplay:
+    Url: https://www.twitch.tv/ayoubsplay
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description: I watch chess, I like cod.
+    Since: 12/31/2017
+
+deezknights:
+    Url: https://www.twitch.tv/deezknights
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 12/31/2017
+
+kart0ffelsalaat:
+    Url: https://www.twitch.tv/kart0ffelsalaat
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 12/31/2017
+
+Railbird80:
+    Url: https://www.twitch.tv/railbird80
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/4ac3da7d-54c8-41f8-b2df-9118a5c9d919-profile_image-70x70.png
+    Description: I follow chess streams
+    Since: 12/31/2017
+
+NoJokeChess:
+    Url: https://www.twitch.tv/nojokechess
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/nojokechess-profile_banner-85b4450c38f49ff5-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/nojokechess-profile_image-a05c5f6aca8d4618-70x70.jpeg
+    Description: I play chess, that's it.
+    Since: 12/31/2017
+
+VampirePrincessMiyu:
+    Url: https://www.twitch.tv/vampireprincessmiyu
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 12/31/2017
+
+chesstwinx22:
+    Url: https://www.twitch.tv/chesstwinx22
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 12/31/2017
+
+rhaps0dy111:
+    Url: https://www.twitch.tv/rhaps0dy111
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 12/30/2017
+
+XiSparks:
+    Url: https://www.twitch.tv/xisparks
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 12/21/2017
+
+MaxBJ66:
+    Url: https://www.twitch.tv/maxbj66
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/11cb14bc-2cc9-4188-bd8c-ac591271373e-profile_image-70x70.png
+    Description:
+    Since: 12/21/2017
+
+camelclutcher:
+    Url: https://www.twitch.tv/camelclutcher
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 12/21/2017
+
+TerribleJoe1:
+    Url: https://www.twitch.tv/terriblejoe1
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/2199f471-6e19-40e1-9683-245622b25078-profile_image-70x70.png
+    Description:
+    Since: 12/14/2017
+
+1ThousandPoundSSBBW:
+    Url: https://www.twitch.tv/1thousandpoundssbbw
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 12/14/2017
+
+CommanderBreivik770:
+    Url: https://www.twitch.tv/commanderbreivik770
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 12/14/2017
+
+Keyossa:
+    Url: https://www.twitch.tv/keyossa
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 12/8/2017
+
+Mr_Paladin:
+    Url: https://www.twitch.tv/mr_paladin
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/mr_paladin-profile_banner-e81211c6b383730b-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/mr_paladin-profile_image-01b36a5e874ae000-70x70.jpeg
+    Description: Lawful good and violent about it.
+    Since: 12/7/2017
+
+MirrorShadez:
+    Url: https://www.twitch.tv/mirrorshadez
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 12/7/2017
+
+eatchipss:
+    Url: https://www.twitch.tv/eatchipss
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 12/7/2017
+
+UnsolutionN:
+    Url: https://www.twitch.tv/unsolutionn
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/unsolutionn-profile_banner-f3223325f7aeb647-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/unsolutionn-profile_image-441cd4b695a0cac1-70x70.jpeg
+    Description: iTz My T1m3 ?
+    Since: 12/7/2017
+
+giancsal:
+    Url: https://www.twitch.tv/giancsal
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 12/7/2017
+
+qablo:
+    Url: https://www.twitch.tv/qablo
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/qablo-profile_image-843672d63478f5e6-70x70.png
+    Description:
+    Since: 12/7/2017
+
+Kudabb:
+    Url: https://www.twitch.tv/kudabb
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/c5163015-6cfd-4379-bf88-7357e3aea388-profile_image-70x70.jpg
+    Description:
+    Since: 12/7/2017
+
+Felix68800:
+    Url: https://www.twitch.tv/felix68800
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 12/5/2017
+
+atnasko:
+    Url: https://www.twitch.tv/atnasko
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/atnasko-profile_image-cb6bf7507b7d6363-70x70.png
+    Description:
+    Since: 12/5/2017
+
+troutbum69:
+    Url: https://www.twitch.tv/troutbum69
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/troutbum69-profile_image-2b400e7f3afc11d1-70x70.jpeg
+    Description:
+    Since: 11/27/2017
+
+yD4rkzin:
+    Url: https://www.twitch.tv/yd4rkzin
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 11/27/2017
+
+Stealthy_Sheep_NL:
+    Url: https://www.twitch.tv/stealthy_sheep_nl
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/stealthy_sheep_nl-profile_image-c0872f4f5a791eb0-70x70.jpeg
+    Description: I suck at videogames
+    Since: 11/24/2017
+
+jairosl94:
+    Url: https://www.twitch.tv/jairosl94
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 11/24/2017
+
+willwolf42069t:
+    Url: https://www.twitch.tv/willwolf42069t
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 11/24/2017
+
+TheScienceGod:
+    Url: https://www.twitch.tv/thesciencegod
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/thesciencegod-profile_banner-b00764940999ce1a-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/thesciencegod-profile_image-5b12b75541f9f961-70x70.jpeg
+    Description: Tall and smart XD loves science and obviously video games XD
+    Since: 11/18/2017
+
+perkl566:
+    Url: https://www.twitch.tv/perkl566
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/perkl566-profile_image-6cccad833f55301e-70x70.jpeg
+    Description:
+    Since: 11/18/2017
+
+Avor85:
+    Url: https://www.twitch.tv/avor85
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 11/18/2017
+
+spinwards:
+    Url: https://www.twitch.tv/spinwards
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 11/17/2017
+
+popp159:
+    Url: https://www.twitch.tv/popp159
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 11/17/2017
+
+cryogue:
+    Url: https://www.twitch.tv/cryogue
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/cryogue-profile_banner-983610a354a63ad5-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/9eb8a304-7f9f-46f9-ad76-520cb42631d4-profile_image-70x70.png
+    Description:
+    Since: 11/17/2017
+
+Romanchessmaster:
+    Url: https://www.twitch.tv/romanchessmaster
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description: follow please :P
+    Since: 11/17/2017
+
+Str8_genesis:
+    Url: https://www.twitch.tv/str8_genesis
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description: Freeed0m_j on lichess
+    Since: 11/16/2017
+
+AngelofDeath42069:
+    Url: https://www.twitch.tv/angelofdeath42069
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 11/16/2017
+
+jvarasa:
+    Url: https://www.twitch.tv/jvarasa
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 11/16/2017
+
+jbhweinberg:
+    Url: https://www.twitch.tv/jbhweinberg
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 11/16/2017
+
+normalizator:
+    Url: https://www.twitch.tv/normalizator
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 11/15/2017
+
+hashshash:
+    Url: https://www.twitch.tv/hashshash
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/hashshash-profile_image-fe2e6dc8c3a17ea1-70x70.jpeg
+    Description: A bio? As in a biography? I'm no historical figure, what do you want from me? I, uh -- I like to party. Nobody parties but me.
+    Since: 11/15/2017
+
+Mungathu:
+    Url: https://www.twitch.tv/mungathu
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 11/12/2017
+
+GiraffesAreGods:
+    Url: https://www.twitch.tv/giraffesaregods
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 11/12/2017
+
+legometh:
+    Url: https://www.twitch.tv/legometh
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 11/11/2017
+
+donkeypoo79:
+    Url: https://www.twitch.tv/donkeypoo79
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 11/9/2017
+
+juanra94:
+    Url: https://www.twitch.tv/juanra94
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 11/6/2017
+
+inapproximable:
+    Url: https://www.twitch.tv/inapproximable
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 11/6/2017
+
+OrlovaChess:
+    Url: https://www.twitch.tv/orlovachess
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/28a5b30796f37892-profile_banner-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/fea1767b5a5a3dc6-profile_image-70x70.jpeg
+    Description: Retired player with the titles Woman Candidate Master and Woman National Master. Played for Canada in numerous international events. Full time chess instructor. Playing for fun.
+    Since: 11/6/2017
+
+BrunoRola:
+    Url: https://www.twitch.tv/brunorola
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 11/5/2017
+
+Dayblox:
+    Url: https://www.twitch.tv/dayblox
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/dayblox-profile_image-24a69b08ce5b42bd-70x70.jpeg
+    Description:
+    Since: 11/5/2017
+
+HumanLunchable:
+    Url: https://www.twitch.tv/humanlunchable
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/38c18b87-ce74-4948-8e0b-c7936a4d069a-profile_image-70x70.png
+    Description:
+    Since: 11/5/2017
+
+abjugaor:
+    Url: https://www.twitch.tv/abjugaor
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 11/5/2017
+
+archibaldek:
+    Url: https://www.twitch.tv/archibaldek
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 11/5/2017
+
+kimchanjoo:
+    Url: https://www.twitch.tv/kimchanjoo
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 11/5/2017
+
+gambit_boy:
+    Url: https://www.twitch.tv/gambit_boy
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/gambit_boy-profile_banner-ac8f3dfce9de7378-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/gambit_boy-profile_image-5cad8b5dbb3e22aa-70x70.jpeg
+    Description: Hey!  My name is Steffen and im from Germany, Bavaria.  I'm studying business mathematics and love Mario64 and chess, which is the main reason im on twitch.  Share the love!  xxx
+    Since: 11/5/2017
+
+Dron32s:
+    Url: https://www.twitch.tv/dron32s
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 11/4/2017
+
+Mito_Chan123:
+    Url: https://www.twitch.tv/mito_chan123
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 11/4/2017
+
+chessbrah:
+    Url: https://www.twitch.tv/chessbrah
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/291d3839-03e6-42b0-9336-8ed19c97c60a-profile_banner-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/8d35c8cb-5a75-4b0a-8a9d-0b2c48407a34-profile_image-70x70.png
+    Description: Chess entertainment hosted by Grandmaster Eric Hansen with energetic dance beats and uncensored commentary. The show also features GM's Aman Hambleton and Yasser Seirawan along with an eclectic mix of special guests.
+    Since: 11/4/2017
+
+ArwenGold:
+    Url: https://www.twitch.tv/arwengold
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 11/4/2017
+
+Undertaker6661234:
+    Url: https://www.twitch.tv/undertaker6661234
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 11/4/2017
+
+Radioactive74Life:
+    Url: https://www.twitch.tv/radioactive74life
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/2f05b2fa0cd531d8-profile_image-70x70.png
+    Description:
+    Since: 11/1/2017
+
+St3ampunkPanda:
+    Url: https://www.twitch.tv/st3ampunkpanda
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/st3ampunkpanda-profile_banner-bf3d13be8db137ae-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/st3ampunkpanda-profile_image-9857e4a072c6598d-70x70.jpeg
+    Description: 23. Spain.
+    Since: 10/31/2017
+
+Klusterfuzz:
+    Url: https://www.twitch.tv/klusterfuzz
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 10/31/2017
+
+xDravenAirLinesx:
+    Url: https://www.twitch.tv/xdravenairlinesx
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/xdravenairlinesx-profile_image-4e023b26a5fe0825-70x70.jpeg
+    Description: When in doubt , know your way out
+    Since: 10/21/2017
+
+Johnguzek:
+    Url: https://www.twitch.tv/johnguzek
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description: This user has no bio, but he is very cool.
+    Since: 10/7/2017
+
+c_colombo:
+    Url: https://www.twitch.tv/c_colombo
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/c_colombo-profile_image-2aed06ede909b095-70x70.jpeg
+    Description:
+    Since: 10/7/2017
+
+evildarthvader:
+    Url: https://www.twitch.tv/evildarthvader
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 10/7/2017
+
+wizardstick:
+    Url: https://www.twitch.tv/wizardstick
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 10/7/2017
+
+Danielnuker7:
+    Url: https://www.twitch.tv/danielnuker7
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 10/7/2017
+
+GriKe555:
+    Url: https://www.twitch.tv/grike555
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/a4818d81-267b-4a41-89d1-10b08022c642-profile_banner-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/3c295164bbda10ce-profile_image-70x70.jpeg
+    Description:
+    Since: 10/7/2017
+
+MisterBronz:
+    Url: https://www.twitch.tv/misterbronz
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 10/7/2017
+
+RetroJatekos:
+    Url: https://www.twitch.tv/retrojatekos
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 9/28/2017
+
+Iron_robot:
+    Url: https://www.twitch.tv/iron_robot
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 9/23/2017
+
+nullpointerat:
+    Url: https://www.twitch.tv/nullpointerat
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 9/23/2017
+
+GataMeow:
+    Url: https://www.twitch.tv/gatameow
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 9/20/2017
+
+Daphil:
+    Url: https://www.twitch.tv/daphil
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 9/20/2017
+
+TheSunclub:
+    Url: https://www.twitch.tv/thesunclub
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/46e6a788fac89fba-profile_image-70x70.png
+    Description:
+    Since: 9/20/2017
+
+marshallkod:
+    Url: https://www.twitch.tv/marshallkod
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 9/20/2017
+
+Raahgame:
+    Url: https://www.twitch.tv/raahgame
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 9/20/2017
+
+fullhomoolen:
+    Url: https://www.twitch.tv/fullhomoolen
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-70x70.jpg
+    Description:
+    Since: 9/20/2017
+
+Alexandertl12:
+    Url: https://www.twitch.tv/alexandertl12
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 9/20/2017
+
+willwolf69T:
+    Url: https://www.twitch.tv/willwolf69t
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 9/20/2017
+
+baumpower2000:
+    Url: https://www.twitch.tv/baumpower2000
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 9/20/2017
+
+Maartenols:
+    Url: https://www.twitch.tv/maartenols
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/maartenols-profile_banner-635cf00eb7dc8420-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/maartenols-profile_image-ba7f90361505bf0c-70x70.jpeg
+    Description: Dutch, 33, likes chess, cheap wine, reading, cycling, summer rain and cigarettes.
+    Since: 9/20/2017
+
+dewaga:
+    Url: https://www.twitch.tv/dewaga
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 9/20/2017
+
+b0l0k:
+    Url: https://www.twitch.tv/b0l0k
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 9/20/2017
+
+Milos_Krstic:
+    Url: https://www.twitch.tv/milos_krstic
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 9/19/2017
+
+Whitedancingrockstar:
+    Url: https://www.twitch.tv/whitedancingrockstar
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/e37450d076f1a5bc-profile_banner-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/40a96d52-a61b-42a9-86af-bcba8019fff5-profile_image-70x70.jpg
+    Description: Too weak too slow.
+    Since: 9/19/2017
+
+kwikwikwi:
+    Url: https://www.twitch.tv/kwikwikwi
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 9/19/2017
+
+dD_Dr:
+    Url: https://www.twitch.tv/dd_dr
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/dd_dr-profile_image-d33bccdc8bda015b-70x70.png
+    Description: DaDa
+    Since: 9/19/2017
+
+jimkat007:
+    Url: https://www.twitch.tv/jimkat007
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 9/19/2017
+
+Qweytrop:
+    Url: https://www.twitch.tv/qweytrop
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description: Just a random guy
+    Since: 9/19/2017
+
+diovinn:
+    Url: https://www.twitch.tv/diovinn
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/be01a75b-659b-488c-acf5-74b757e0f5d2-profile_image-70x70.png
+    Description:
+    Since: 9/19/2017
+
+vsim:
+    Url: https://www.twitch.tv/vsim
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/vsim-profile_banner-3ade6bf9f5ae68d0-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/vsim-profile_image-ee5f935f461ff109-70x70.png
+    Description: Chess enthusiast. I'm not very strong but chess pieces are not that heavy. I've created vsimbot and dmitlichess.
+    Since: 9/19/2017
+
+SosHairyKnightSac:
+    Url: https://www.twitch.tv/soshairyknightsac
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 9/19/2017
+
+xoanteis:
+    Url: https://www.twitch.tv/xoanteis
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 9/19/2017
+
+rocken_eagle:
+    Url: https://www.twitch.tv/rocken_eagle
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 8/24/2017
+
+DaNelsOneGuy:
+    Url: https://www.twitch.tv/danelsoneguy
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/3b746c5ad3a77d52-profile_banner-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/bdac5fe54b3d62a9-profile_image-70x70.jpeg
+    Description: Who am I? Just a guy playing games since the late 80ies. And a proud dog owner.
+    Since: 8/24/2017
+
+Procodmi:
+    Url: https://www.twitch.tv/procodmi
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/a5837e44f892f28a-profile_banner-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/adad46985c74d8b0-profile_image-70x70.png
+    Description: https://www.youtube.com/user/procodmi
+    Since: 8/21/2017
+
+pruzz:
+    Url: https://www.twitch.tv/pruzz
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 8/21/2017
+
+FamilyOfGuardians:
+    Url: https://www.twitch.tv/familyofguardians
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/familyofguardians-profile_banner-003ce3d8ea0021aa-480.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/f05528ce5ea20182-profile_image-70x70.png
+    Description: Hello!  We are FoG!  Creators of Creativity. Musicians.  Gamers. Goof-Balls.
+    Since: 8/21/2017
+
+Wo0z5:
+    Url: https://www.twitch.tv/wo0z5
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 8/20/2017
+
+lordsakujo:
+    Url: https://www.twitch.tv/lordsakujo
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/933284944761c3b3-profile_image-70x70.png
+    Description:
+    Since: 8/20/2017
+
+clownpawn:
+    Url: https://www.twitch.tv/clownpawn
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 8/19/2017
+
+drunkchess:
+    Url: https://www.twitch.tv/drunkchess
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 8/19/2017
+
+9thgate:
+    Url: https://www.twitch.tv/9thgate
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/9thgate-profile_image-6439b9dcdc094c59-70x70.png
+    Description:
+    Since: 8/19/2017
+
+edderkoppkabal:
+    Url: https://www.twitch.tv/edderkoppkabal
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-70x70.jpg
+    Description:
+    Since: 8/13/2017
+
+DanieleTarellisback:
+    Url: https://www.twitch.tv/danieletarellisback
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description: Capablanca fan.Hot heart,cold mind. Never give up!
+    Since: 8/12/2017
+
+pabloesto:
+    Url: https://www.twitch.tv/pabloesto
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 8/11/2017
+
+mikloping:
+    Url: https://www.twitch.tv/mikloping
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 7/30/2017
+
+thecynicalheathen:
+    Url: https://www.twitch.tv/thecynicalheathen
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 7/30/2017
+
+HappysHouse:
+    Url: https://www.twitch.tv/happyshouse
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 7/30/2017
+
+KurtzKillsKids:
+    Url: https://www.twitch.tv/kurtzkillskids
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-70x70.jpg
+    Description:
+    Since: 7/30/2017
+
+ZNation_Chess:
+    Url: https://www.twitch.tv/znation_chess
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/znation_chess-profile_banner-abbdfc4003086602-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description: Come play chess with me!
+    Since: 7/30/2017
+
+TheRealVendtta:
+    Url: https://www.twitch.tv/therealvendtta
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 7/30/2017
+
+lucek_00983:
+    Url: https://www.twitch.tv/lucek_00983
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/lucek_00983-profile_banner-c172eac345777845-480.jpeg
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 7/30/2017
+
+losiu20022:
+    Url: https://www.twitch.tv/losiu20022
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-70x70.jpg
+    Description:
+    Since: 7/30/2017
+
+jordi99955:
+    Url: https://www.twitch.tv/jordi99955
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-70x70.jpg
+    Description:
+    Since: 7/20/2017
+
+kuartillo:
+    Url: https://www.twitch.tv/kuartillo
+    Background: https://static.twitchcdn.net/assets/bg_glitch_pattern-34ca2e369aad1ed33b57.png
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-70x70.jpg
+    Description:
+    Since: 7/18/2017
+
+NikolayPavlov:
+    Url: https://www.twitch.tv/nikolaypavlov
+    Background: https://static-cdn.jtvnw.net/jtv_user_pictures/77f32db1-f737-45a9-9026-c973045df3d3-profile_banner-480.jpg
+    Avatar: https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-70x70.jpg
+    Description:
+    Since: 4/8/2017
