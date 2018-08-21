@@ -1,7 +1,3 @@
 #index:
 #    path: /
 #    controller: App\Controller\DefaultController::index
-
-lichess:
-     path: /lichess
-     controller: App\Controller\GetLichessProfileController::profile

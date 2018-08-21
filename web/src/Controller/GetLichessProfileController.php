@@ -3,10 +3,14 @@
 namespace App\Controller;
 
 use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\Routing\Annotation\Route;
 
 class GetLichessProfileController
 {
 
+    /**
+     * @Route("/lichess")
+     */
     public function profile()
     {
         $ch = curl_init();
