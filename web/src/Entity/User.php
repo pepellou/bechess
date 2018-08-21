@@ -2,76 +2,158 @@
 
 namespace App\Entity;
 
+use Doctrine\ORM\Mapping as ORM;
 
+/**
+ * @ORM\Entity(repositoryClass="App\Repository\UserRepository")
+ */
 class User
 {
+    /**
+     * @ORM\Id()
+     * @ORM\GeneratedValue()
+     * @ORM\Column(type="integer")
+     */
+    private $id;
 
-    protected $nickname;
-    protected $password;
+    /**
+     * @ORM\Column(type="string", length=64)
+     */
+    private $nickname;
 
-    protected $firstname;
-    protected $lastname;
-    protected $lichess_handle;
-    protected $lichess_key;
+    /**
+     * @ORM\Column(type="string", length=64)
+     */
+    private $email;
 
-    public function getNickname()
+    /**
+     * @ORM\Column(type="string", length=32, nullable=true)
+     */
+    private $firstName;
+
+    /**
+     * @ORM\Column(type="string", length=32, nullable=true)
+     */
+    private $lastName;
+
+    /**
+     * @ORM\Column(type="string", length=64)
+     */
+    private $password;
+
+    /**
+     * @ORM\Column(type="integer", nullable=true)
+     */
+    private $fideRating;
+
+    /**
+     * @ORM\Column(type="string", length=64, nullable=true)
+     */
+    private $lichessHandle;
+
+    /**
+     * @ORM\Column(type="string", length=16, nullable=true)
+     */
+    private $lichessAccessKey;
+
+    public function getId(): ?int
+    {
+        return $this->id;
+    }
+
+    public function getNickname(): ?string
     {
         return $this->nickname;
     }
 
-    public function setNickname($nickname)
+    public function setNickname(string $nickname): self
     {
         $this->nickname = $nickname;
+
+        return $this;
     }
 
-    public function getPassword()
+    public function getEmail(): ?string
+    {
+        return $this->email;
+    }
+
+    public function setEmail(string $email): self
+    {
+        $this->email = $email;
+
+        return $this;
+    }
+
+    public function getFirstName(): ?string
+    {
+        return $this->firstName;
+    }
+
+    public function setFirstName(?string $firstName): self
+    {
+        $this->firstName = $firstName;
+
+        return $this;
+    }
+
+    public function getLastName(): ?string
+    {
+        return $this->lastName;
+    }
+
+    public function setLastName(?string $lastName): self
+    {
+        $this->lastName = $lastName;
+
+        return $this;
+    }
+
+    public function getPassword(): ?string
     {
         return $this->password;
     }
 
-    public function setPassword($password)
+    public function setPassword(string $password): self
     {
         $this->password = $password;
+
+        return $this;
     }
 
-    public function getFirstname()
+    public function getFideRating(): ?int
     {
-        return $this->firstname;
+        return $this->fideRating;
     }
 
-    public function setFirstname($firstname)
+    public function setFideRating(?int $fideRating): self
     {
-        $this->firstname = $firstname;
+        $this->fideRating = $fideRating;
+
+        return $this;
     }
 
-    public function getLastname()
+    public function getLichessHandle(): ?string
     {
-        return $this->lastname;
+        return $this->lichessHandle;
     }
 
-    public function setLastname($lastname)
+    public function setLichessHandle(?string $lichessHandle): self
     {
-        $this->lastname = $lastname;
+        $this->lichessHandle = $lichessHandle;
+
+        return $this;
     }
 
-    public function getLichess_handle()
+    public function getLichessAccessKey(): ?string
     {
-        return $this->lichess_handle;
+        return $this->lichessAccessKey;
     }
 
-    public function setLichess_handle($lichess_handle)
+    public function setLichessAccessKey(?string $lichessAccessKey): self
     {
-        $this->lichess_handle = $lichess_handle;
-    }
+        $this->lichessAccessKey = $lichessAccessKey;
 
-    public function getLichess_key()
-    {
-        return $this->lichess_key;
+        return $this;
     }
-
-    public function setLichess_key($lichess_key)
-    {
-        $this->lichess_key = $lichess_key;
-    }
-
 }
