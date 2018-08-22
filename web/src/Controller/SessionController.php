@@ -3,6 +3,7 @@
 namespace App\Controller;
 
 use App\Entity\User;
+use App\Repository\UserRepository;
 
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\Routing\Annotation\Route;
@@ -18,16 +19,16 @@ class SessionController extends AbstractController
     /**
      * @Route("/login")
      */
-    public function login(Request $request)
+    public function login(Request $request, UserRepository $users)
     {
         $loginData = new User();
 
         $loginForm = $this->createFormBuilder($loginData)
             ->add(
-                'nickname',
+                'email',
                 TextType::class,
                 array(
-                    'label' => 'Nick'
+                    'label' => 'Email'
                 )
             )
             ->add(
@@ -51,7 +52,10 @@ class SessionController extends AbstractController
         if ($loginForm->isSubmitted() && $loginForm->isValid()) {
             $userCredentials = $loginForm->getData();
 
-            // do login
+            $registeredUser = $users->findOneByEmail($userCredentials->getEmail());
+            if (is_null($registeredUser) || $registeredUser->getPassword() != $userCredentials->getPassword()) {
+                return $this->redirectToRoute('app_session_access_error');
+            }
 
             return $this->redirectToRoute('app_getlichessprofile_profile');
         }
@@ -62,6 +66,14 @@ class SessionController extends AbstractController
                 'form' => $loginForm->createView()
             )
         );
+    }
+
+    /**
+     * @Route("/access-error")
+     */
+    public function access_error()
+    {
+        return $this->render('session/access_error.html.twig');
     }
 
 }
