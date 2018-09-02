@@ -6,11 +6,12 @@ use App\Entity\User;
 use App\Repository\UserRepository;
 
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
-use Symfony\Component\Routing\Annotation\Route;
 use Symfony\Component\Form\Extension\Core\Type\TextType;
 use Symfony\Component\Form\Extension\Core\Type\PasswordType;
 use Symfony\Component\Form\Extension\Core\Type\SubmitType;
 use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpFoundation\Session\SessionInterface;
+use Symfony\Component\Routing\Annotation\Route;
 
 
 class SessionController extends AbstractController
@@ -19,7 +20,7 @@ class SessionController extends AbstractController
     /**
      * @Route("/login")
      */
-    public function login(Request $request, UserRepository $users)
+    public function login(Request $request, UserRepository $users, SessionInterface $session)
     {
         $loginData = new User();
 
@@ -57,7 +58,9 @@ class SessionController extends AbstractController
                 return $this->redirectToRoute('app_session_access_error');
             }
 
-            return $this->redirectToRoute('app_getlichessprofile_profile');
+            $session->set('user', $registeredUser);
+
+            return $this->redirectToRoute('app_default_home');
         }
 
         return $this->render(
@@ -66,6 +69,16 @@ class SessionController extends AbstractController
                 'form' => $loginForm->createView()
             )
         );
+    }
+
+    /**
+     * @Route("/logout")
+     */
+    public function logout(SessionInterface $session)
+    {
+        $session->clear();
+        $session->invalidate();
+        return $this->redirectToRoute('app_default_home');
     }
 
     /**

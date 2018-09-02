@@ -1,5 +1,13 @@
-<h2>Login here</h2>
+{% extends 'base.html.twig' %}
 
-{{ form_start(form) }}
-    {{ form_widget(form) }}
-{{ form_end(form) }}
+{% block title %}
+    BeChess | Login
+{% endblock %}
+
+{% block body %}
+    <h2>Login here</h2>
+
+    {{ form_start(form) }}
+        {{ form_widget(form) }}
+    {{ form_end(form) }}
+{% endblock %}
