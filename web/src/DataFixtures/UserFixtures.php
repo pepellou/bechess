@@ -18,7 +18,7 @@ class UserFixtures extends Fixture
         $pepe->setEmail('pepellou@gmail.com');
         $pepe->setFirstName('Pepe');
         $pepe->setLastName('Doval');
-        $pepe->setPassword('password');
+        $pepe->setPassword('b68fe43f0d1a0d7aef123722670be50268e15365401c442f8806ef83b612976b');  // 'password'
         $pepe->setFideRating(2065);
         $pepe->setLichessHandle('pepellou');
         $pepe->setLichessAccessKey('RwTXx8ko3ex9r9vU');
@@ -28,7 +28,7 @@ class UserFixtures extends Fixture
         $alumno->setEmail('pepellou+jacky@gmail.com');
         $alumno->setFirstName('Jacopo');
         $alumno->setLastName('Zimmari');
-        $alumno->setPassword('password');
+        $alumno->setPassword('b68fe43f0d1a0d7aef123722670be50268e15365401c442f8806ef83b612976b');  // 'password'
         $alumno->setFideRating(null);
         $alumno->setLichessHandle('JackyShowss');
         $alumno->setLichessAccessKey(null);
