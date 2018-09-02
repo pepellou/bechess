@@ -50,4 +50,26 @@ class LichessService
         return new User(json_decode(curl_exec($ch)));
     }
 
+    public function getGames($user)
+    {
+        $ch = curl_init();
+        $headers = array(
+            /*
+            'Accept: application/json',
+             */
+            'Accept: application/x-ndjson',
+            'Authorization: Bearer RwTXx8ko3ex9r9vU'
+        );
+        curl_setopt($ch, CURLOPT_URL, 'https://lichess.org/api/games/user/' . $user);
+        curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+        curl_setopt($ch, CURLOPT_HEADER, 0);
+
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+
+        curl_setopt($ch, CURLOPT_TIMEOUT, 60);
+
+        //return json_decode(curl_exec($ch));
+        return curl_exec($ch);
+    }
+
 }

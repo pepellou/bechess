@@ -35,7 +35,14 @@ class ImportGamesFromLichessCommand extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        $output->writeln(print_r($this->lichess->getUser($input->getArgument('user')), true));
+        $games = explode(PHP_EOL, $this->lichess->getGames($input->getArgument('user')));
+        foreach($games as $game) {
+            $output->writeln("");
+            $output->writeln("========================0");
+            $output->writeln(print_r(json_decode($game)), true);
+            $output->writeln("========================0");
+            $output->writeln("");
+        }
     }
 
 }
