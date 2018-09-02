@@ -23,7 +23,18 @@ class UserFixtures extends Fixture
         $pepe->setLichessHandle('pepellou');
         $pepe->setLichessAccessKey('RwTXx8ko3ex9r9vU');
 
+        $alumno = new User();
+        $alumno->setNickname('JackyShowss');
+        $alumno->setEmail('pepellou+jacky@gmail.com');
+        $alumno->setFirstName('Jacopo');
+        $alumno->setLastName('Zimmari');
+        $alumno->setPassword('password');
+        $alumno->setFideRating(null);
+        $alumno->setLichessHandle('JackyShowss');
+        $alumno->setLichessAccessKey(null);
+
         $manager->persist($pepe);
+        $manager->persist($alumno);
         $manager->flush();
     }
 
