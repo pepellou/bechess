@@ -3,6 +3,7 @@
 namespace App\Command;
 
 use Symfony\Component\Console\Command\Command;
+use Symfony\Component\Console\Helper\ProgressBar;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Output\OutputInterface;
@@ -35,14 +36,26 @@ class ImportGamesFromLichessCommand extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        $games = explode(PHP_EOL, $this->lichess->getGames($input->getArgument('user')));
-        foreach($games as $game) {
-            $output->writeln("");
-            $output->writeln("========================0");
-            $output->writeln(print_r(json_decode($game)), true);
-            $output->writeln("========================0");
-            $output->writeln("");
-        }
+        $user = $this->lichess->getUser($input->getArgument('user'));
+
+        $section1 = $output->section();
+
+        $progressBar = new ProgressBar($section1);
+
+        $progressBar->start($user->count['all']);
+
+        $this->lichess->streamGames(
+            $input->getArgument('user'),
+            function($toPrint) use($output, $progressBar) {
+                /*
+                $output->writeln(" >>>>>>>>>>>>>>");
+                $output->writeln($toPrint);
+                $output->writeln(" <<<<<<<<<<<<<<");
+                 */
+                $progressBar->advance();
+            },
+            0.2 * $user->count['all']
+        );
     }
 
 }
