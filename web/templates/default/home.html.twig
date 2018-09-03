@@ -1,0 +1,24 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}
+    BeChess
+{% endblock %}
+
+{% block body %}
+    {% if app.session.get('user') %}
+        <p>
+            You're logged in.
+        </p>
+        <p>
+            Check out <a href="{{ url('app_getlichessprofile_profile') }}">your lichess data</a>
+        </p>
+        <p>
+            Or <a href="{{ url('app_session_logout') }}">logout</a>
+        </p>
+    {% else %}
+        <p>
+            You're not logged in.
+        </p>
+        <a href="{{ url('app_session_login') }}">Login here</a>
+    {% endif %}
+{% endblock %}
