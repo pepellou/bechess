@@ -7,11 +7,19 @@
 {% endblock %}
 
 {% block body %}
-    {{ form_start(form) }}
-        <div class="logo">
-            <img class="mb-4" src="{{ asset('build/images/logo.png') }}" height=50>
-            <span class="be">Be</span><span class="chess">Chess</span>
+    <div id="about" class="section">
+        <div class="container">
+            <div class="row">
+
+                {{ form_start(form) }}
+                    <div class="logo">
+                        <img class="mb-4" src="{{ asset('build/images/logo.png') }}" height=50>
+                        <span class="be">Be</span><span class="chess">Chess</span>
+                    </div>
+                    {{ form_widget(form) }}
+                {{ form_end(form) }}
+
+            </div>
         </div>
-        {{ form_widget(form) }}
-    {{ form_end(form) }}
+    </div>
 {% endblock %}

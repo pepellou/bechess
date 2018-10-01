@@ -5,6 +5,363 @@
 {% endblock %}
 
 {% block body %}
+    <!-- Home -->
+    <div id="home" class="hero-area">
+
+        <!-- Backgound Image -->
+        <div class="bg-image bg-parallax overlay" style="background-image:url({{ asset('build/images/home-background.jpg') }})"></div>
+        <!-- /Backgound Image -->
+
+        <div class="home-wrapper">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+                        <h1 class="white-text">Chess School</h1>
+                        <p class="lead white-text">Join our school. Discover our courses and materials.</p>
+                        <a class="main-button icon-button" href="#">Join us!</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- /Home -->
+
+    <!-- About -->
+    <div id="about" class="section">
+
+        <!-- container -->
+        <div class="container">
+
+            <!-- row -->
+            <div class="row">
+
+                <div class="col-md-6">
+                    <div class="section-header">
+                        <h2>Welcome to our school</h2>
+                        <p class="lead">As a chess school, we offer:</p>
+                    </div>
+
+                    <!-- feature -->
+                    <div class="feature">
+                        <i class="feature-icon fa fa-flask"></i>
+                        <div class="feature-content">
+                            <h4>Chess lessons </h4>
+                            <p>Both online and in person, our chess lessons are intended to cover all levels.</p>
+                        </div>
+                    </div>
+                    <!-- /feature -->
+
+                    <!-- feature -->
+                    <div class="feature">
+                        <i class="feature-icon fa fa-users"></i>
+                        <div class="feature-content">
+                            <h4>Expert Teachers</h4>
+                            <p>Our teachers have a wide experience teaching and training chess players.</p>
+                        </div>
+                    </div>
+                    <!-- /feature -->
+
+                    <!-- feature -->
+                    <div class="feature">
+                        <i class="feature-icon fa fa-comments"></i>
+                        <div class="feature-content">
+                            <h4>Community</h4>
+                            <p>...</p>
+                        </div>
+                    </div>
+                    <!-- /feature -->
+
+                </div>
+
+                <div class="col-md-6">
+                    <div class="about-img">
+                        <img src="{{ asset('build/images/about.png') }}" alt="">
+                    </div>
+                </div>
+
+            </div>
+            <!-- row -->
+
+        </div>
+        <!-- container -->
+    </div>
+    <!-- /About -->
+
+    <!-- Courses -->
+    <div id="courses" class="section">
+
+        <!-- container -->
+        <div class="container">
+
+            <!-- row -->
+            <div class="row">
+                <div class="section-header text-center">
+                    <h2>Explore Materials</h2>
+                    <p class="lead">Libris vivendo eloquentiam ex ius, nec id splendide abhorreant.</p>
+                </div>
+            </div>
+            <!-- /row -->
+
+            <!-- courses -->
+            <div id="courses-wrapper">
+
+                <!-- row -->
+                <div class="row">
+
+                    <!-- single course -->
+                    <div class="col-md-3 col-sm-6 col-xs-6">
+                        <div class="course">
+                            <a href="#" class="course-img">
+                                <img src="{{ asset('build/images/course01.jpg') }}" alt="">
+                                <i class="course-link-icon fa fa-link"></i>
+                            </a>
+                            <a class="course-title" href="#">Beginner to Pro in Endgames</a>
+                            <div class="course-details">
+                                <span class="course-category">Endgames</span>
+                                <span class="course-price course-premium">14 €</span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single course -->
+
+                    <!-- single course -->
+                    <div class="col-md-3 col-sm-6 col-xs-6">
+                        <div class="course">
+                            <a href="#" class="course-img">
+                                <img src="{{ asset('build/images/course02.jpg') }}" alt="">
+                                <i class="course-link-icon fa fa-link"></i>
+                            </a>
+                            <a class="course-title" href="#">Introduction to Caro-Kahn </a>
+                            <div class="course-details">
+                                <span class="course-category">Openings</span>
+                                <span class="course-price course-free">Free</span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single course -->
+
+                    <!-- single course -->
+                    <div class="col-md-3 col-sm-6 col-xs-6">
+                        <div class="course">
+                            <a href="#" class="course-img">
+                                <img src="{{ asset('build/images/course03.jpg') }}" alt="">
+                                <i class="course-link-icon fa fa-link"></i>
+                            </a>
+                            <a class="course-title" href="#">The Ultimate Sicilian Dragon | From Beginner To Advanced</a>
+                            <div class="course-details">
+                                <span class="course-category">Openings</span>
+                                <span class="course-price course-premium">14 €</span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single course -->
+
+                    <div class="col-md-3 col-sm-6 col-xs-6">
+                        <div class="course">
+                            <a href="#" class="course-img">
+                                <img src="{{ asset('build/images/course04.jpg') }}" alt="">
+                                <i class="course-link-icon fa fa-link"></i>
+                            </a>
+                            <a class="course-title" href="#">The Complete Scotch</a>
+                            <div class="course-details">
+                                <span class="course-category">Openings</span>
+                                <span class="course-price course-free">Free</span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single course -->
+
+                </div>
+                <!-- /row -->
+
+                <!-- row -->
+                <div class="row">
+
+                    <!-- single course -->
+                    <div class="col-md-3 col-sm-6 col-xs-6">
+                        <div class="course">
+                            <a href="#" class="course-img">
+                                <img src="{{ asset('build/images/course05.jpg') }}" alt="">
+                                <i class="course-link-icon fa fa-link"></i>
+                            </a>
+                            <a class="course-title" href="#">Gambits, Tricks and Traps</a>
+                            <div class="course-details">
+                                <span class="course-category">Openings</span>
+                                <span class="course-price course-free">Free</span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single course -->
+
+                    <!-- single course -->
+                    <div class="col-md-3 col-sm-6 col-xs-6">
+                        <div class="course">
+                            <a href="#" class="course-img">
+                                <img src="{{ asset('build/images/course06.jpg') }}" alt="">
+                                <i class="course-link-icon fa fa-link"></i>
+                            </a>
+                            <a class="course-title" href="#">All You Need To Know About Endgames</a>
+                            <div class="course-details">
+                                <span class="course-category">Endgames</span>
+                                <span class="course-price course-premium">14 €</span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single course -->
+
+                    <!-- single course -->
+                    <div class="col-md-3 col-sm-6 col-xs-6">
+                        <div class="course">
+                            <a href="#" class="course-img">
+                                <img src="{{ asset('build/images/course07.jpg') }}" alt="">
+                                <i class="course-link-icon fa fa-link"></i>
+                            </a>
+                            <a class="course-title" href="#">How to Get Started in Middlegames</a>
+                            <div class="course-details">
+                                <span class="course-category">Middlegames</span>
+                                <span class="course-price course-free">Free</span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /single course -->
+
+
+
+                </div>
+                <!-- /row -->
+
+            </div>
+            <!-- /courses -->
+
+            <div class="row">
+                <div class="center-btn">
+                    <a class="main-button icon-button" href="#">More ...</a>
+                </div>
+            </div>
+
+        </div>
+        <!-- container -->
+
+    </div>
+    <!-- /Courses -->
+
+    <!-- Call To Action -->
+    <div id="cta" class="section">
+
+        <!-- Backgound Image -->
+        <div class="bg-image bg-parallax overlay" style="background-image:url({{ asset('build/images/cta1-background.jpg') }})"></div>
+        <!-- /Backgound Image -->
+
+        <!-- container -->
+        <div class="container">
+
+            <!-- row -->
+            <div class="row">
+
+                <div class="col-md-6">
+                    <h2 class="white-text">Chess is our passion, is it also yours?</h2>
+                    <p class="lead white-text">Join our school. Start learning and improving your chess.</p>
+                    <a class="main-button icon-button" href="#">Get Started!</a>
+                </div>
+
+            </div>
+            <!-- /row -->
+
+        </div>
+        <!-- /container -->
+
+    </div>
+    <!-- /Call To Action -->
+
+    <!-- Why us -->
+    <div id="why-us" class="section">
+
+        <!-- container -->
+        <div class="container">
+
+            <!-- row -->
+            <div class="row">
+                <div class="section-header text-center">
+                    <h2>Why BeChess</h2>
+                    <p class="lead">Blah blah.</p>
+                </div>
+
+                <!-- feature -->
+                <div class="col-md-4">
+                    <div class="feature">
+                        <i class="feature-icon fa fa-flask"></i>
+                        <div class="feature-content">
+                            <h4>Chess lessons</h4>
+                            <p>Blah blah</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- /feature -->
+
+                <!-- feature -->
+                <div class="col-md-4">
+                    <div class="feature">
+                        <i class="feature-icon fa fa-users"></i>
+                        <div class="feature-content">
+                            <h4>Expert Teachers</h4>
+                            <p>Blah blah</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- /feature -->
+
+                <!-- feature -->
+                <div class="col-md-4">
+                    <div class="feature">
+                        <i class="feature-icon fa fa-comments"></i>
+                        <div class="feature-content">
+                            <h4>Community</h4>
+                            <p>Blah blah</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- /feature -->
+
+            </div>
+            <!-- /row -->
+
+            <hr class="section-hr">
+
+        </div>
+        <!-- /container -->
+
+    </div>
+    <!-- /Why us -->
+
+    <!-- Contact CTA -->
+    <div id="contact-cta" class="section">
+
+        <!-- Backgound Image -->
+        <div class="bg-image bg-parallax overlay" style="background-image:url({{ asset('build/images/cta2-background.jpg') }})"></div>
+        <!-- Backgound Image -->
+
+        <!-- container -->
+        <div class="container">
+
+            <!-- row -->
+            <div class="row">
+
+                <div class="col-md-8 col-md-offset-2 text-center">
+                    <h2 class="white-text">Contact Us</h2>
+                    <p class="lead white-text">Libris vivendo eloquentiam ex ius, nec id splendide abhorreant.</p>
+                    <a class="main-button icon-button" href="#">Contact Us Now</a>
+                </div>
+
+            </div>
+            <!-- /row -->
+
+        </div>
+        <!-- /container -->
+
+    </div>
+    <!-- /Contact CTA -->
+
     {% if app.session.get('user') %}
         <p>
             You're logged in.
