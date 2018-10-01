@@ -12,6 +12,9 @@ Encore
 
     // uncomment to define the assets of the project
     .addEntry('js/app', './assets/js/main.js')
+    .addEntry('js/bootstrap', './assets/js/bootstrap.min.js')
+    .addStyleEntry('css/base', './assets/css/base.css')
+    .addStyleEntry('css/bootstrap', './assets/css/bootstrap.min.css')
     .addStyleEntry('css/login', './assets/css/login.css')
 
     // uncomment if you use Sass/SCSS files

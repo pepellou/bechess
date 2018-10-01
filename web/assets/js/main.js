@@ -17,6 +17,16 @@ var encryptPasswords = function(e) {
 
 jQuery(document).ready(function() {
 
+    // Preloader
+    $(window).on('load', function() {
+        $("#preloader").delay(600).fadeOut();
+    });
+
+    // Mobile Toggle Btn
+    $('.navbar-toggle').on('click',function(){
+        $('#header').toggleClass('nav-collapse')
+    });
+
     $('form').on('submit', encryptPasswords);
 
 });
