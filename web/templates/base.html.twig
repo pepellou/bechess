@@ -1,3 +1,16 @@
+{% set currentPath = app.request.uri %}
+
+{% set route = app.request.attributes.get('_route') %}
+{% set route_params = app.request.attributes.get('_route_params') %}
+{% set params = route_params|merge(app.request.query.all) %}
+
+{% set languages = [
+    {'code':'en','name':'English'},
+    {'code':'es','name':'Español'},
+    {'code':'ga','name':'Galego'}
+] %}
+
+
 <!doctype html>
 <html lang="en">
     <head>
@@ -45,12 +58,24 @@
                 <!-- Navigation -->
                 <nav id="nav">
                     <ul class="main-menu nav navbar-nav navbar-right">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Courses</a></li>
-                        <li><a href="#">Shop</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a href="#">{% trans %}Home{% endtrans %}</a></li>
+                        <li><a href="#">{% trans %}About{% endtrans %}</a></li>
+                        <li><a href="#">{% trans %}Courses{% endtrans %}</a></li>
+                        <li><a href="#">{% trans %}Shop{% endtrans %}</a></li>
+                        <li><a href="#">{% trans %}Contact{% endtrans %}</a></li>
                     </ul>
+                </nav>
+                <!-- /Navigation -->
+
+                <!-- Language -->
+                <nav id="language-selector">
+                    {% for language in languages %}
+                        {% if (app.request.locale == language.code) %}
+                            <span data-code="{{ language.code }}">{{ language.name }}</span>
+                        {% else %}
+                            <a href="{{ path('app_default_home_i18n', params|merge({ _locale: language.code })) }}">{{ language.name }}</a>
+                        {% endif %}
+                    {% endfor %}
                 </nav>
                 <!-- /Navigation -->
 
