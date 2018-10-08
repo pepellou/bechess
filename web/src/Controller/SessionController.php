@@ -3,12 +3,10 @@
 namespace App\Controller;
 
 use App\Entity\User;
+use App\Form\LoginType;
 use App\Repository\UserRepository;
 
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
-use Symfony\Component\Form\Extension\Core\Type\TextType;
-use Symfony\Component\Form\Extension\Core\Type\PasswordType;
-use Symfony\Component\Form\Extension\Core\Type\SubmitType;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Session\SessionInterface;
 use Symfony\Component\Routing\Annotation\Route;
@@ -24,29 +22,7 @@ class SessionController extends AbstractController
     {
         $loginData = new User();
 
-        $loginForm = $this->createFormBuilder($loginData)
-            ->add(
-                'email',
-                TextType::class,
-                array(
-                    'label' => 'Email'
-                )
-            )
-            ->add(
-                'password',
-                PasswordType::class,
-                array(
-                    'label' => 'Password'
-                )
-            )
-            ->add(
-                'login',
-                SubmitType::class,
-                array(
-                    'label' => 'Login'
-                )
-            )
-            ->getForm();
+        $loginForm = $this->createForm(LoginType::class, $loginData);
 
         $loginForm->handleRequest($request);
 

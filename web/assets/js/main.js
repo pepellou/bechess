@@ -1,4 +1,5 @@
-    console.log('this is main');
+const imagesContext = require.context('../img', true, /\.(png|jpg|jpeg|gif|ico|svg|webp)$/);
+imagesContext.keys().forEach(imagesContext);
 
 var CryptoJS = require("crypto-js");
 
@@ -16,7 +17,15 @@ var encryptPasswords = function(e) {
 
 jQuery(document).ready(function() {
 
-    console.log('document is ready');
+    // Preloader
+    $(window).on('load', function() {
+        $("#preloader").delay(600).fadeOut();
+    });
+
+    // Mobile Toggle Btn
+    $('.navbar-toggle').on('click',function(){
+        $('#header').toggleClass('nav-collapse')
+    });
 
     $('form').on('submit', encryptPasswords);
 
