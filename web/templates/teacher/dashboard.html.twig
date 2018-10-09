@@ -1,0 +1,29 @@
+{% extends 'base.html.twig' %}
+
+{% block title %} Teacher dashboard {% endblock %}
+
+{% block stylesheets %}
+    <link href="{{ asset('build/css/teacher.css') }}" rel="stylesheet">
+{% endblock %}
+
+{% block body %}
+    <div class="section">
+        <div class="container">
+            <div class="row">
+
+                <p>
+                    Welcome {{ user.firstName }}
+                </p>
+
+                <p>
+                    Here is what you can do for now:
+                    <ul>
+                        <li> <a href="{{ url('app_teacher_students') }}"> See students records </a> </li>
+                        <li> <a href="{{ url('app_session_logout') }}"> Logout </a> </li>
+                    </ul>
+                </p>
+
+            </div>
+        </div>
+    </div>
+{% endblock %}

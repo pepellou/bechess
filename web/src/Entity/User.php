@@ -56,6 +56,11 @@ class User
      */
     private $lichessAccessKey;
 
+    /**
+     * @ORM\Column(type="string", length=16)
+     */
+    private $type;
+
     public function getId(): ?int
     {
         return $this->id;
@@ -153,6 +158,18 @@ class User
     public function setLichessAccessKey(?string $lichessAccessKey): self
     {
         $this->lichessAccessKey = $lichessAccessKey;
+
+        return $this;
+    }
+
+    public function getType(): ?string
+    {
+        return $this->type;
+    }
+
+    public function setType(?string $type): self
+    {
+        $this->type = $type;
 
         return $this;
     }

@@ -22,6 +22,7 @@ class UserFixtures extends Fixture
         $pepe->setFideRating(2065);
         $pepe->setLichessHandle('pepellou');
         $pepe->setLichessAccessKey('RwTXx8ko3ex9r9vU');
+        $pepe->setType('teacher');
 
         $alumno = new User();
         $alumno->setNickname('JackyShowss');
@@ -32,6 +33,7 @@ class UserFixtures extends Fixture
         $alumno->setFideRating(null);
         $alumno->setLichessHandle('JackyShowss');
         $alumno->setLichessAccessKey(null);
+        $alumno->setType('student');
 
         $manager->persist($pepe);
         $manager->persist($alumno);
