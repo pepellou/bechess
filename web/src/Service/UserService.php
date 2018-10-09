@@ -43,4 +43,21 @@ class UserService {
         return true;
     }
 
+    public function getStudents()
+    {
+        return $this->userRepository
+            ->findBy([
+                'type' => 'student'
+            ]);
+    }
+
+    public function getStudent($nickname)
+    {
+        return $this->userRepository
+            ->findOneBy([
+                'type' => 'student',
+                'nickname' => $nickname
+            ]);
+    }
+
 }

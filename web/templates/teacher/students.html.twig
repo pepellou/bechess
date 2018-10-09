@@ -15,7 +15,7 @@
                     Here are the registered students:
                     <ul>
                         {% for student in students %}
-                            <li> <a href="{{ url('app_teacher_student', {'id':student.id}) }}"> {{ student.firstName }} {{ student.lastName }} </a> </li>
+                            <li> <a href="{{ url('app_teacher_student', {'nickname':student.nickname}) }}"> {{ student.firstName }} {{ student.lastName }} </a> </li>
                         {% endfor %}
                     </ul>
                 </p>

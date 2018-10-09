@@ -1,0 +1,34 @@
+{% extends 'base.html.twig' %}
+
+{% block title %} Teacher dashboard {% endblock %}
+
+{% block stylesheets %}
+    <link href="{{ asset('build/css/teacher.css') }}" rel="stylesheet">
+{% endblock %}
+
+{% block body %}
+    <div class="section">
+        <div class="container">
+            <div class="row">
+
+                <p>
+                    This is what we got on {{ student.firstName }} {{ student.lastName }}:
+                    <table>
+                        <tr><td> <strong> Id: </strong> </td><td> &nbsp; </td><td> {{ student.id }} </td></tr>
+                        <tr><td> <strong> Nickname: </strong> </td><td> &nbsp; </td><td> {{ student.nickname }} </td></tr>
+                        <tr><td> <strong> Email: </strong> </td><td> &nbsp; </td><td> {{ student.email }} </td></tr>
+                        <tr><td> <strong> First name: </strong> </td><td> &nbsp; </td><td> {{ student.firstName }} </td></tr>
+                        <tr><td> <strong> Second name: </strong> </td><td> &nbsp; </td><td> {{ student.lastName }} </td></tr>
+                        <tr><td> <strong> FIDE rating: </strong> </td><td> &nbsp; </td><td> {{ student.fideRating }} </td></tr>
+                        <tr><td> <strong> Lichess handle: </strong> </td><td> &nbsp; </td><td> {{ student.lichessHandle }} </td></tr>
+                    </table>
+                </p>
+
+                <p>
+                    <a href="{{ url('app_teacher_students') }}"> Back to list </a>
+                </p>
+
+            </div>
+        </div>
+    </div>
+{% endblock %}
