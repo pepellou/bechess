@@ -56,6 +56,16 @@ class User
      */
     private $lichessAccessKey;
 
+    /**
+     * @ORM\Column(type="string", length=16)
+     */
+    private $type;
+
+    /**
+     * @ORM\OneToOne(targetEntity="App\Entity\Student", mappedBy="user", cascade={"persist", "remove"})
+     */
+    private $student;
+
     public function getId(): ?int
     {
         return $this->id;
@@ -153,6 +163,35 @@ class User
     public function setLichessAccessKey(?string $lichessAccessKey): self
     {
         $this->lichessAccessKey = $lichessAccessKey;
+
+        return $this;
+    }
+
+    public function getType(): ?string
+    {
+        return $this->type;
+    }
+
+    public function setType(?string $type): self
+    {
+        $this->type = $type;
+
+        return $this;
+    }
+
+    public function getStudent(): ?Student
+    {
+        return $this->student;
+    }
+
+    public function setStudent(Student $student): self
+    {
+        $this->student = $student;
+
+        // set the owning side of the relation if necessary
+        if ($this !== $student->getUser()) {
+            $student->setUser($this);
+        }
 
         return $this;
     }

@@ -1,0 +1,57 @@
+{% extends 'base.html.twig' %}
+
+{% block title %} Teacher dashboard {% endblock %}
+
+{% block stylesheets %}
+    <link href="{{ asset('build/css/teacher.css') }}" rel="stylesheet">
+{% endblock %}
+
+{% block body %}
+    <div class="section">
+        <div class="container">
+            <div class="row">
+
+                <p>
+                    This is what we got on {{ student.firstName }} {{ student.lastName }}:
+                </p>
+
+                <h2>User data</h2>
+
+                <table>
+                    <tr><td> <strong> Id: </strong> </td><td> &nbsp; </td><td> {{ student.id }} </td></tr>
+                    <tr><td> <strong> Nickname: </strong> </td><td> &nbsp; </td><td> {{ student.nickname }} </td></tr>
+                    <tr><td> <strong> Email: </strong> </td><td> &nbsp; </td><td> {{ student.email }} </td></tr>
+                    <tr><td> <strong> First name: </strong> </td><td> &nbsp; </td><td> {{ student.firstName }} </td></tr>
+                    <tr><td> <strong> Second name: </strong> </td><td> &nbsp; </td><td> {{ student.lastName }} </td></tr>
+                    <tr><td> <strong> FIDE rating: </strong> </td><td> &nbsp; </td><td> {{ student.fideRating }} </td></tr>
+                    <tr><td> <strong> Lichess handle: </strong> </td><td> &nbsp; </td><td> {{ student.lichessHandle }} </td></tr>
+                </table>
+
+                {% if student.student is not null %}
+                    <h2>Student data</h2>
+
+                    <table>
+                        <tr><td> <strong> Dni: </strong> </td><td> &nbsp; </td><td> {{ student.student.dni }} </td></tr>
+                        <tr><td> <strong> BirthDate: </strong> </td><td> &nbsp; </td><td> {{ student.student.birthDate|date('Y-m-d') }} </td></tr>
+                        <tr><td> <strong> Notes: </strong> </td><td> &nbsp; </td><td> {{ student.student.notes }} </td></tr>
+                        <tr><td> <strong> Father Full Name: </strong> </td><td> &nbsp; </td><td> {{ student.student.fatherFullName }} </td></tr>
+                        <tr><td> <strong> Mother Full Name: </strong> </td><td> &nbsp; </td><td> {{ student.student.motherFullName }} </td></tr>
+                        <tr><td> <strong> Father phone: </strong> </td><td> &nbsp; </td><td> {{ student.student.fatherPhone }} </td></tr>
+                        <tr><td> <strong> Mother phone: </strong> </td><td> &nbsp; </td><td> {{ student.student.motherPhone }} </td></tr>
+                        <tr><td> <strong> Father fixed phone: </strong> </td><td> &nbsp; </td><td> {{ student.student.fatherFixedPhone }} </td></tr>
+                        <tr><td> <strong> Mother fixed phone: </strong> </td><td> &nbsp; </td><td> {{ student.student.motherFixedPhone }} </td></tr>
+                        <tr><td> <strong> Family address: </strong> </td><td> &nbsp; </td><td> {{ student.student.familyAddress }} </td></tr>
+                        <tr><td> <strong> Postal code: </strong> </td><td> &nbsp; </td><td> {{ student.student.postalCode }} </td></tr>
+                        <tr><td> <strong> Dni of signing authority: </strong> </td><td> &nbsp; </td><td> {{ student.student.dniSigningAuthority }} </td></tr>
+                        <tr><td> <strong> Authority email: </strong> </td><td> &nbsp; </td><td> {{ student.student.authorityEmail }} </td></tr>
+                    </table>
+                {% endif %}
+
+                <p>
+                    <a href="{{ url('app_teacher_students') }}"> Back to list </a>
+                </p>
+
+            </div>
+        </div>
+    </div>
+{% endblock %}

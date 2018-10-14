@@ -4,7 +4,7 @@ namespace App\Controller;
 
 use App\Entity\User;
 use App\Form\LoginType;
-use App\Repository\UserRepository;
+use App\Service\UserService;
 
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Request;
@@ -18,7 +18,7 @@ class SessionController extends AbstractController
     /**
      * @Route("/login")
      */
-    public function login(Request $request, UserRepository $users, SessionInterface $session)
+    public function login(Request $request, UserService $users, SessionInterface $session)
     {
         $loginData = new User();
 
@@ -29,14 +29,13 @@ class SessionController extends AbstractController
         if ($loginForm->isSubmitted() && $loginForm->isValid()) {
             $userCredentials = $loginForm->getData();
 
-            $registeredUser = $users->findOneByEmail($userCredentials->getEmail());
-            if (is_null($registeredUser) || $registeredUser->getPassword() != $userCredentials->getPassword()) {
+            if (!$users->login($userCredentials)) {
                 return $this->redirectToRoute('app_session_access_error');
             }
 
-            $session->set('user', $registeredUser);
+            $userType = $session->get('user')->getType();
 
-            return $this->redirectToRoute('app_default_home');
+            return $this->redirectToRoute("app_${userType}_home");
         }
 
         return $this->render(
