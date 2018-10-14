@@ -100,9 +100,9 @@ class LichessService
         $ch = curl_init();
         $headers = array(
             /*
-            'Accept: application/json',
-             */
             'Accept: application/x-ndjson',
+             */
+            'Accept: application/x-chess-pgn',
             'Authorization: Bearer RwTXx8ko3ex9r9vU'
         );
         curl_setopt($ch, CURLOPT_URL, 'https://lichess.org/api/games/user/' . $user);
