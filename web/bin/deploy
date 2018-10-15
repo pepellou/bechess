@@ -1,0 +1,58 @@
+#!/bin/bash
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+BASE_DIR="~"
+
+CD="cd ${BASE_DIR}"
+GIT="${CD} && git"
+PHP="${CD} && .bin/php"
+SYMFONY="${PHP} bin/console"
+MKDIR="${CD} && mkdir -p"
+
+function upload() {
+    basePath=$1
+    path=$2
+
+    echo "FTP upload: $path --> ${BASE_DIR}/${path}"
+    scp $basePath/$path bechess0@bechess.com:${BASE_DIR}/${path} || {
+        echo
+        echo "---"
+        echo "Cannot upload file. Aborting deploy."
+        git checkout ${current_branch}
+        exit 2
+    }
+}
+
+current_branch=$(git branch | grep "^\*" | awk '{print $2}')
+
+git checkout master || {
+    echo
+    echo "---"
+    echo "Cannot checkout master branch. Aborting deploy."
+    exit 1
+}
+
+git push -f dinahosting master
+
+# UPLOAD FILES
+upload "bin/.deploy/prod" ".env"
+ssh bechess0@bechess.com "${GIT} reset --hard"
+yarn run encore production && {
+    for dir in $(find www/build -type d)
+    do
+        ssh bechess0@bechess.com "${MKDIR} $dir"
+    done
+    for file in $(find www/build -type f)
+    do
+        upload "." $file
+    done
+}
+
+# UPDATE DEPENDENCIES
+ssh bechess0@bechess.com "${PHP} tools/composer.phar update"
+ssh bechess0@bechess.com "${PHP} tools/composer.phar install"
+
+# RUN MIGRATIONS
+ssh bechess0@bechess.com "${SYMFONY} doctrine:migrations:migrate"
+
+git checkout ${current_branch}
