@@ -1,0 +1,103 @@
+Infrastructure:
+
+  ☑ Spike @created(Sun 08/19/2018 - 16:32)
+    - Login with lichess
+
+  ☑ Framework?? @created(Sun 08/19/2018 - 16:31)
+    Symfony
+
+  ☐ Testing framework @created(Sun 08/19/2018 - 16:31)
+
+  ☐ Deploy? @created(Sun 08/19/2018 - 16:32)
+
+  ☐ Database? @created(Sun 08/19/2018 - 16:32)
+
+_________________________________________________________________________________________________________
+
+MMVP (Minimum Minimum Viable Product) Features:
+
+  ☐ Brand & image @created(Sun 08/19/2018 - 13:22)
+    - Commercial name
+    - Temporary logo
+    - Apply to:
+        - Twitch
+        - Discord
+        - Twitter
+
+  ☐ Define roles @created(Sun 08/19/2018 - 13:23)
+    - Add them to wiki
+
+  ☐ Elevator pitch @created(Sun 08/19/2018 - 13:24)
+    - Add it to wiki
+
+  ☐ Add to wiki info about physical Chess School @created(Sun 08/19/2018 - 16:37)
+    - Contact and address
+    - How to join
+    - Schedule
+    - Services: books, lessons, camps, etc.
+    - Mentorship programs
+    - Tournaments (all levels, all ages)
+    - Shop
+
+  ☐ Write developers section in the wiki @created(Sun 08/19/2018 - 16:31)
+
+  ☐ Login with lichess @created(Sun 08/19/2018 - 16:42)
+    - Or simple login + "connect" with Lichess
+
+  ☐ Online lessons (one student / many students?) @created(Tue 08/21/2018 - 17:56)
+
+  ☐ Scheduled private lichess tournaments for members @created(Tue 08/21/2018 - 17:56)
+
+  ☐ Ability to send feedback and/or ideas @created(Tue 08/21/2018 - 17:58)
+
+  ☐ I'm assigned a mentor when I apply as an online student @created(Tue 08/21/2018 - 17:52)
+    With the mentor I can:
+    - Get advice on: openings, training, common errors, etc.
+        -> Chat
+
+_________________________________________________________________________________________________________
+
+Rest of Features:
+
+  ☐ Brand & image @created(Sun 08/19/2018 - 13:22)
+    - Logo
+    - Design (hire a designer)
+
+  ☐ Fancy Chess School Website @created(Sun 08/19/2018 - 16:39)
+    - Include all the info in the wiki
+
+  ☐ Online shop @created(Sun 08/19/2018 - 16:41)
+
+  ☐ Collections of puzzles + tutorials @created(Tue 08/21/2018 - 17:51)
+    I want the ability for mentors to set exercises/tasks for their students
+    If we use Lichess puzzles (makes sense) we need to keep track of them (and results, how?)
+    Same with chesstempo
+
+  ☐ I'm assigned a mentor when I apply as an online student @created(Tue 08/21/2018 - 17:52)
+    - Get training plans:
+        - Tasks to do
+        - Schedule
+        - Exercises:
+            - Tactics puzzles
+            - Guess the move??
+            - Training games (against the mentor?)
+            - Analysis sessions
+            - Study sessions
+
+  ☐ Material @created(Tue 08/21/2018 - 17:57)
+    - eBooks
+    - Video-recorded physical lessons
+
+  ☐ Online shop @created(Tue 08/21/2018 - 17:57)
+
+  ☐ Integrated profile @created(Tue 08/21/2018 - 17:57)
+    - FIDE profile
+    - lichess.org
+        - Login with lichess.org
+        - Get all the games (for the mentor)
+        - Automated analysis from the games (common mistakes)
+    - chesstempo
+    - chess24
+    - chess.com
+    - chessgames.com
+    - chessdb
