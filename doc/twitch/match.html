@@ -1,0 +1,32 @@
+<body>
+<style>
+    body {
+        background: black;
+    }
+    div#results {
+        width: 100px;
+        margin: 0 auto;
+        margin-top: 100px;
+        display: grid;
+        grid-template-columns: auto 20px auto;
+    }
+    .box {
+        padding: 20px;
+        font-size: 28px;
+        border: 2px solid white;
+        color: white;
+        width: 30px;
+        text-align: center;
+    }
+    .box.rival {
+        grid-column: 1 / 2;
+    }
+    .box.pepe {
+        grid-column: 3 / 4;
+    }
+</style>
+    <div id="results">
+        <div class="box rival">0.5</div>
+        <div class="box pepe">4.5</div>
+    </div>
+</body>
