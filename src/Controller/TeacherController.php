@@ -3,6 +3,8 @@
 namespace App\Controller;
 
 use App\Service\UserService;
+use App\Service\ClassesService;
+use App\Service\UtilsService;
 
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Request;
@@ -42,6 +44,19 @@ class TeacherController extends AbstractController
             'teacher/student.html.twig',
             array(
                 'student' => $users->getStudent($nickname)
+            )
+        );
+    }
+
+    /**
+     * @Route("/{_locale}/schedule")
+     */
+    public function schedule(Request $request, ClassesService $classes, UtilsService $utils)
+    {
+        return $this->render(
+            'teacher/schedule.html.twig',
+            array(
+                'classes' => $classes->getClassesForWeek($utils->getCurrentWeek())
             )
         );
     }

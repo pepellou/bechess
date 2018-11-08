@@ -5,20 +5,17 @@ namespace App\Service;
 use App\Entity\User;
 use App\Repository\UserRepository;
 
-use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\HttpFoundation\Session\SessionInterface;
 
 
 class UserService {
 
-    private $em;
     private $session;
 
     private $userRepository;
 
-    public function __construct(UserRepository $userRepository, EntityManagerInterface $em, SessionInterface $session)
+    public function __construct(UserRepository $userRepository, SessionInterface $session)
     {
-        $this->em = $em;
         $this->session = $session;
 
         $this->userRepository = $userRepository;

@@ -1,0 +1,30 @@
+{% extends 'base.html.twig' %}
+
+{% block title %} Teacher schedule {% endblock %}
+
+{% block stylesheets %}
+    <link href="{{ asset('build/css/teacher.css') }}" rel="stylesheet">
+{% endblock %}
+
+{% block body %}
+    <div class="section">
+        <div class="container">
+            <div class="row">
+
+                {% for day in classes %}
+                    <h3> {{ day['day'] | date('l d/m/Y') }} </h3>
+                    <ul>
+                        {% for group in day['classes'] %}
+                        <li> {{ group.startHour }} - {{ group.endHour }}: {{ group.name }} </li>
+                        {% endfor %}
+                    </ul>
+                {% endfor %}
+
+                <p>
+                    <a href="{{ url('app_teacher_home') }}"> Back to dashboard </a>
+                </p>
+
+            </div>
+        </div>
+    </div>
+{% endblock %}
